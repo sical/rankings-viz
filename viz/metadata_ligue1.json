@@ -1,0 +1,201 @@
+[{
+  "official": "Paris Saint-Germain Football Club",
+  "name": "Paris Saint-Germain FC",
+  "name_fd": "Paris SG",
+  "name_mf": "Paris SG",
+  "accr": "PSG",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Paris_Saint-Germain_Football_Club",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/0/03/Logo_Paris_Saint-Germain_Football_Club.svg",
+  "wiki_color_bg": "#005096",
+  "wiki_color_fg": "#EE293D"
+}, {
+  "official": "Association sportive de Monaco football club",
+  "name": "AS Monaco FC",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "ASM",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Association_sportive_de_Monaco_football_club",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_AS_Monaco_2013.png",
+  "wiki_color_bg": "",
+  "wiki_color_fg": ""
+}, {
+  "official": "Olympique lyonnais",
+  "name": "Olympique lyonnais",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "OLY",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Olympique_lyonnais",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Olympique_lyonnais_%28logo%29.svg/langfr-260px-Olympique_lyonnais_%28logo%29.svg.png",
+  "wiki_color_bg": "",
+  "wiki_color_fg": ""
+}, {
+  "official": "Stade Malherbe Caen Calvados Basse-Normandie",
+  "name": "Caen",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "CAE",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Stade_Malherbe_Caen_Calvados_Basse-Normandie",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/LogoSmc2013.png/260px-LogoSmc2013.png",
+  "wiki_color_bg": "",
+  "wiki_color_fg": ""
+}, {
+  "official": "Olympique Gymnaste Club Nice Côte d'Azur",
+  "name": "Nice",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "OGC",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Olympique_Gymnaste_Club_Nice_C%C3%B4te_d%27Azur",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/OGC_Nice_logo.png/260px-OGC_Nice_logo.png",
+  "wiki_color_bg": "",
+  "wiki_color_fg": ""
+}, {
+  "official": "Stade rennais football club",
+  "name": "Rennes",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "REN",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Stade_rennais_football_club",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_Stade_Rennais_FC.svg/langfr-260px-Logo_Stade_Rennais_FC.svg.png",
+  "wiki_color_bg": "",
+  "wiki_color_fg": ""
+}, {
+  "official": "Association sportive de Saint-Étienne",
+  "name": "St-Etienne",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "STE",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Association_sportive_de_Saint-%C3%89tienne",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/Logo_AS_Saint-%C3%89tienne.svg/langfr-260px-Logo_AS_Saint-%C3%89tienne.svg.png",
+  "wiki_color_bg": "",
+  "wiki_color_fg": ""
+}, {
+  "official": "Football Club de Nantes",
+  "name": "Nantes",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "FCN",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Football_Club_de_Nantes",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Fcna_logo_2008.png/260px-Fcna_logo_2008.png",
+  "wiki_color_bg": "#075629",
+  "wiki_color_fg": "#FFEC00",
+}, {
+  "official": "Angers Sporting Club de l'Ouest",
+  "name": "Angers",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "SCO",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Angers_Sporting_Club_de_l%27Ouest",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_AngersSCO.svg/langfr-260px-Logo_AngersSCO.svg.png",
+  "wiki_color_bg": "#000000",
+  "wiki_color_fg": "#FFFFFF"
+}, {
+  "official": "Football Club Lorient",
+  "name": "Lorient",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "LOR",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Football_Club_Lorient",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Lorient_Bretagne-Sud.svg/langfr-260px-Logo_FC_Lorient_Bretagne-Sud.svg.png",
+  "wiki_color_bg": "#FF7000",
+  "wiki_color_fg": "#FF7000"
+}, {
+  "official": "Sporting Club de Bastia",
+  "name": "Bastia",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "BAS",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Sporting_Club_de_Bastia",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/SCB-Logo.png/260px-SCB-Logo.png",
+  "wiki_color_bg": "#000080",
+  "wiki_color_fg": "#FFFFFF"
+}, {
+  "official": "Football Club des Girondins de Bordeaux",
+  "name": "Bordeaux",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "FCGB",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Football_Club_des_Girondins_de_Bordeaux",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_des_Girondins_de_Bordeaux.svg/langfr-260px-Logo_des_Girondins_de_Bordeaux.svg.png",
+  "wiki_color_bg": "#001B50",
+  "wiki_color_fg": ""
+}, {
+  "official": "Olympique de Marseille",
+  "name": "Marseille",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "OM",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Olympique_de_Marseille",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/langfr-260px-Logo_Olympique_de_Marseille.svg.png",
+  "wiki_color_bg": "#009CDC",
+  "wiki_color_fg": ""
+}, {
+  "official": "Montpellier Hérault Sport Club",
+  "name": "Montpellier",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "MHSC",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Montpellier_H%C3%A9rault_Sport_Club_",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Montpellier_H%C3%A9rault_Sport_Club_%28logo%29.svg/langfr-260px-Montpellier_H%C3%A9rault_Sport_Club_%28logo%29.svg.png",
+  "wiki_color_bg": "#003399",
+  "wiki_color_fg": ""
+}, {
+  "official": "LOSC Lille",
+  "name": "Lille",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "LOSC",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/LOSC_Lille",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Logo_LOSC_Lille.svg/langfr-260px-Logo_LOSC_Lille.svg.png",
+  "wiki_color_bg": "#DF3A4B",
+  "wiki_color_fg": ""
+}, {
+  "official": "En Avant de Guingamp",
+  "name": "Guingamp",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "EA",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/En_Avant_de_Guingamp",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/En-Avant-Guingamp-840.png/260px-En-Avant-Guingamp-840.png",
+  "wiki_color_bg": "#FF0000",
+  "wiki_color_fg": ""
+}, {
+  "official": "Stade de Reims",
+  "name": "Reims",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "SdR",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Stade_de_Reims",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Stade_Reims_1999.svg/langfr-260px-Stade_Reims_1999.svg.png",
+  "wiki_color_bg": "#CC0000",
+  "wiki_color_fg": ""
+}, {
+  "official": "Gazélec Football Club Ajaccio",
+  "name": "Ajaccio",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "GFCA",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Gaz%C3%A9lec_Football_Club_Ajaccio",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8f/GFCAjaccioLogotype.png/260px-GFCAjaccioLogotype.png",
+  "wiki_color_bg": "#CC3300",
+  "wiki_color_fg": "#000099"
+}, {
+  "official": "Toulouse Football Club",
+  "name": "Toulouse",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "TFC",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Toulouse_Football_Club",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8b/Logo_Toulouse_FC.svg/langfr-260px-Logo_Toulouse_FC.svg.png",
+  "wiki_color_bg": "#F9F9F9",
+  "wiki_color_fg": ""
+}, {
+  "official": "Espérance Sportive Troyes Aube Champagne",
+  "name": "Troyes",
+  "name_fd": "",
+  "name_mf": "",
+  "accr": "ESTAC",
+  "wiki_fr": "https://fr.wikipedia.org/wiki/Esp%C3%A9rance_Sportive_Troyes_Aube_Champagne",
+  "wiki_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/ES_Troyes_AC.svg/langfr-260px-ES_Troyes_AC.svg.png",
+  "wiki_color_bg": "#005499",
+  "wiki_color_fg": "#DC9D0F"
+}]
