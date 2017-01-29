@@ -12,6 +12,8 @@ import urllib.request
 import pandas as pd
 import json
 import lxml
+from flask import Flask
+app = Flask(__name__)
 
 # 2009-2010
 # premier-league-2010-2011.htm#j8
@@ -96,12 +98,18 @@ def parse_compute(teams, days):
     
     return teams;
     
-if __name__ == "__main__":
     
+
+        
+@app.route("/")
+def autoscrapp():
+	
+	
     html, days = scrap('http://www.maxifoot.fr/calendrier-ligue1-2015-2016.htm')    
     teams = parse_compute(html, days)
 
     flat_teams = []
+    
     
     for team in teams:
         for day in teams[team]:
@@ -126,6 +134,15 @@ if __name__ == "__main__":
     
     #with open('ranking-predictions/soccer_ligue1.json', 'w') as fp:
     #    fp.write(df.to_json(orient='records'))
-    with open('data/soccer_ligue1.csv', 'w') as fp:
+    with open('../viz/data/soccer_ligue1.csv', 'w') as fp:
         fp.write(df.to_csv(header=True, columns=["day", "pts", "rank", "team"], sep=',', index=False))
         print("File saved!")
+    
+    return "Hello World"
+    
+if __name__ == "__main__":
+    
+    
+    app.run()
+        
+        

@@ -1,781 +1,781 @@
 day,pts,rank,team
-0,0,1,Rennes
-0,0,2,Evian TG
-0,0,3,Bastia
-0,0,4,Marseille
-0,0,5,Paris SG
-0,0,6,Nice
-0,0,7,Toulouse
-0,0,8,Lyon
-0,0,9,Nantes
-0,0,10,Metz
-0,0,11,Lens
+0,0,1,Monaco
+0,0,2,Nantes
+0,0,3,Gaz. Ajaccio
+0,0,4,Angers
+0,0,5,Troyes
+0,0,6,Bastia
+0,0,7,Rennes
+0,0,8,Nice
+0,0,9,Lorient
+0,0,10,Caen
+0,0,11,Paris SG
 0,0,12,Reims
-0,0,13,Bordeaux
-0,0,14,Monaco
-0,0,15,St Etienne
-0,0,16,Lille
-0,0,17,Lorient
-0,0,18,Caen
-0,0,19,Guingamp
-0,0,20,Montpellier
-1,3,1,Nice
-1,3,2,Lyon
-1,3,3,Nantes
-1,3,4,Bordeaux
-1,3,5,St Etienne
-1,3,6,Lorient
-1,3,7,Caen
-1,1,8,Bastia
-1,1,9,Marseille
-1,1,10,Paris SG
-1,1,11,Metz
-1,1,12,Reims
-1,1,13,Lille
-1,0,14,Rennes
-1,0,15,Evian TG
-1,0,16,Toulouse
-1,0,17,Lens
-1,0,18,Monaco
-1,0,19,Guingamp
-1,0,20,Montpellier
-2,6,1,Bordeaux
-2,6,2,St Etienne
-2,4,3,Nice
-2,4,4,Nantes
-2,4,5,Lorient
-2,4,6,Paris SG
-2,4,7,Lille
-2,3,8,Lyon
-2,3,9,Caen
+0,0,13,Montpellier
+0,0,14,Bordeaux
+0,0,15,Guingamp
+0,0,16,Lyon
+0,0,17,St Etienne
+0,0,18,Toulouse
+0,0,19,Marseille
+0,0,20,Lille
+1,3,1,Monaco
+1,3,2,Nantes
+1,3,3,Angers
+1,3,4,Bastia
+1,3,5,Caen
+1,3,6,Paris SG
+1,3,7,Reims
+1,3,8,Toulouse
+1,1,9,Gaz. Ajaccio
+1,1,10,Troyes
+1,1,11,Lorient
+1,1,12,Lyon
+1,0,13,Rennes
+1,0,14,Nice
+1,0,15,Montpellier
+1,0,16,Bordeaux
+1,0,17,Guingamp
+1,0,18,St Etienne
+1,0,19,Marseille
+1,0,20,Lille
+2,6,1,Caen
+2,6,2,Paris SG
+2,6,3,Reims
+2,4,4,Monaco
+2,4,5,Nantes
+2,4,6,Angers
+2,4,7,Bastia
+2,4,8,Lyon
+2,3,9,Toulouse
 2,3,10,Rennes
-2,3,11,Toulouse
-2,3,12,Guingamp
-2,3,13,Montpellier
-2,2,14,Metz
-2,1,15,Bastia
-2,1,16,Marseille
-2,1,17,Reims
-2,0,18,Evian TG
-2,0,19,Lens
-2,0,20,Monaco
-3,9,1,Bordeaux
-3,7,2,St Etienne
-3,7,3,Lille
-3,6,4,Caen
-3,6,5,Montpellier
-3,5,6,Paris SG
-3,4,7,Rennes
-3,4,8,Nice
-3,4,9,Nantes
-3,4,10,Lorient
-3,4,11,Bastia
-3,4,12,Marseille
-3,3,13,Toulouse
-3,3,14,Lyon
-3,3,15,Guingamp
-3,3,16,Lens
-3,3,17,Monaco
-3,2,18,Metz
-3,1,19,Evian TG
-3,1,20,Reims
-4,10,1,Bordeaux
-4,8,2,Lille
-4,8,3,Paris SG
-4,7,4,St Etienne
-4,7,5,Rennes
-4,7,6,Marseille
-4,7,7,Nantes
-4,7,8,Lorient
+2,2,11,Troyes
+2,2,12,Lorient
+2,1,13,Gaz. Ajaccio
+2,1,14,Nice
+2,1,15,Bordeaux
+2,1,16,St Etienne
+2,1,17,Lille
+2,0,18,Montpellier
+2,0,19,Guingamp
+2,0,20,Marseille
+3,9,1,Paris SG
+3,7,2,Nantes
+3,7,3,Angers
+3,7,4,Bastia
+3,6,5,Caen
+3,6,6,Reims
+3,6,7,Rennes
+3,5,8,Monaco
+3,4,9,Lyon
+3,4,10,Toulouse
+3,4,11,Nice
+3,4,12,St Etienne
+3,3,13,Marseille
+3,2,14,Troyes
+3,2,15,Lorient
+3,2,16,Bordeaux
+3,2,17,Lille
+3,1,18,Gaz. Ajaccio
+3,0,19,Montpellier
+3,0,20,Guingamp
+4,12,1,Paris SG
+4,9,2,Rennes
+4,9,3,Reims
+4,8,4,Angers
+4,7,5,Nantes
+4,7,6,Bastia
+4,7,7,Lyon
+4,7,8,St Etienne
 4,6,9,Caen
-4,6,10,Montpellier
-4,6,11,Toulouse
-4,6,12,Lens
-4,5,13,Bastia
-4,5,14,Metz
-4,4,15,Nice
-4,4,16,Monaco
-4,3,17,Lyon
-4,3,18,Guingamp
-4,1,19,Evian TG
-4,1,20,Reims
-5,11,1,Lille
-5,10,2,Bordeaux
-5,10,3,Marseille
+4,5,10,Monaco
+4,5,11,Nice
+4,5,12,Bordeaux
+4,5,13,Lille
+4,4,14,Toulouse
+4,3,15,Troyes
+4,3,16,Marseille
+4,3,17,Guingamp
+4,2,18,Lorient
+4,1,19,Gaz. Ajaccio
+4,1,20,Montpellier
+5,13,1,Paris SG
+5,12,2,Rennes
+5,10,3,Reims
 5,10,4,St Etienne
-5,9,5,Paris SG
-5,9,6,Montpellier
-5,8,7,Rennes
-5,7,8,Nantes
-5,7,9,Lens
-5,7,10,Lorient
-5,7,11,Nice
-5,6,12,Bastia
-5,6,13,Toulouse
-5,6,14,Caen
-5,6,15,Lyon
-5,6,16,Guingamp
-5,5,17,Metz
-5,4,18,Monaco
-5,4,19,Reims
-5,1,20,Evian TG
-6,13,1,Marseille
-6,13,2,Bordeaux
+5,9,5,Caen
+5,8,6,Angers
+5,8,7,Lyon
+5,8,8,Monaco
+5,7,9,Nantes
+5,7,10,Bastia
+5,6,11,Bordeaux
+5,6,12,Lille
+5,6,13,Guingamp
+5,6,14,Marseille
+5,5,15,Nice
+5,5,16,Toulouse
+5,5,17,Lorient
+5,3,18,Troyes
+5,1,19,Gaz. Ajaccio
+5,1,20,Montpellier
+6,14,1,Paris SG
+6,13,2,Rennes
 6,13,3,St Etienne
-6,12,4,Lille
-6,10,5,Paris SG
-6,10,6,Montpellier
-6,10,7,Nantes
-6,8,8,Rennes
-6,8,9,Metz
-6,7,10,Nice
-6,7,11,Toulouse
-6,7,12,Lyon
-6,7,13,Lens
-6,7,14,Lorient
-6,7,15,Caen
-6,7,16,Reims
-6,7,17,Monaco
-6,6,18,Bastia
-6,6,19,Guingamp
-6,1,20,Evian TG
-7,16,1,Marseille
-7,14,2,Bordeaux
-7,14,3,St Etienne
-7,13,4,Paris SG
-7,12,5,Lille
-7,11,6,Nantes
-7,11,7,Metz
-7,10,8,Montpellier
-7,10,9,Nice
-7,10,10,Toulouse
-7,10,11,Lyon
-7,10,12,Monaco
-7,8,13,Rennes
+6,12,4,Caen
+6,11,5,Reims
+6,11,6,Angers
+6,9,7,Lyon
+6,9,8,Guingamp
+6,8,9,Monaco
+6,8,10,Nice
+6,8,11,Lorient
+6,7,12,Nantes
+6,7,13,Bastia
+6,7,14,Bordeaux
+6,7,15,Marseille
+6,7,16,Lille
+6,6,17,Toulouse
+6,3,18,Troyes
+6,1,19,Gaz. Ajaccio
+6,1,20,Montpellier
+7,17,1,Paris SG
+7,16,2,St Etienne
+7,14,3,Rennes
+7,12,4,Angers
+7,12,5,Caen
+7,12,6,Reims
+7,12,7,Lyon
+7,11,8,Monaco
+7,11,9,Nice
+7,11,10,Lorient
+7,10,11,Nantes
+7,9,12,Guingamp
+7,8,13,Marseille
 7,7,14,Bastia
-7,7,15,Lens
-7,7,16,Reims
-7,7,17,Lorient
-7,7,18,Caen
-7,6,19,Guingamp
-7,4,20,Evian TG
-8,19,1,Marseille
-8,17,2,Bordeaux
-8,15,3,Lille
-8,14,4,Paris SG
-8,14,5,St Etienne
-8,14,6,Metz
-8,13,7,Nice
-8,13,8,Montpellier
-8,12,9,Nantes
-8,11,10,Toulouse
-8,11,11,Lyon
-8,10,12,Monaco
-8,8,13,Rennes
-8,8,14,Lens
-8,8,15,Caen
-8,7,16,Bastia
-8,7,17,Reims
-8,7,18,Lorient
-8,7,19,Evian TG
-8,6,20,Guingamp
-9,22,1,Marseille
-9,17,2,Bordeaux
-9,15,3,Paris SG
-9,15,4,Lille
-9,15,5,Nantes
-9,14,6,Nice
-9,14,7,Metz
-9,14,8,St Etienne
-9,14,9,Montpellier
-9,14,10,Toulouse
-9,14,11,Lyon
-9,11,12,Monaco
-9,11,13,Rennes
-9,10,14,Evian TG
-9,10,15,Reims
-9,10,16,Lorient
-9,8,17,Lens
-9,8,18,Caen
-9,7,19,Bastia
-9,6,20,Guingamp
-10,25,1,Marseille
-10,18,2,Bordeaux
-10,18,3,Paris SG
-10,17,4,Lyon
-10,17,5,St Etienne
-10,16,6,Nantes
-10,15,7,Metz
-10,15,8,Lille
-10,14,9,Nice
-10,14,10,Toulouse
-10,14,11,Montpellier
-10,14,12,Monaco
-10,12,13,Rennes
-10,11,14,Reims
-10,10,15,Evian TG
-10,10,16,Lorient
-10,10,17,Bastia
-10,9,18,Caen
-10,9,19,Guingamp
-10,8,20,Lens
-11,25,1,Marseille
-11,21,2,Paris SG
-11,20,3,Lyon
-11,20,4,St Etienne
+7,7,15,Bordeaux
+7,7,16,Toulouse
+7,7,17,Lille
+7,3,18,Troyes
+7,2,19,Gaz. Ajaccio
+7,1,20,Montpellier
+8,20,1,Paris SG
+8,16,2,St Etienne
+8,15,3,Rennes
+8,15,4,Angers
+8,15,5,Caen
+8,15,6,Reims
+8,14,7,Nice
+8,12,8,Monaco
+8,12,9,Lyon
+8,11,10,Lorient
+8,10,11,Nantes
+8,10,12,Guingamp
+8,10,13,Bastia
+8,10,14,Bordeaux
+8,8,15,Marseille
+8,7,16,Toulouse
+8,7,17,Lille
+8,4,18,Troyes
+8,4,19,Montpellier
+8,2,20,Gaz. Ajaccio
+9,23,1,Paris SG
+9,18,2,Angers
+9,18,3,Caen
+9,16,4,Rennes
+9,16,5,St Etienne
+9,15,6,Reims
+9,15,7,Lyon
+9,14,8,Nice
+9,14,9,Lorient
+9,13,10,Monaco
+9,13,11,Nantes
+9,13,12,Guingamp
+9,10,13,Bastia
+9,10,14,Bordeaux
+9,10,15,Lille
+9,8,16,Toulouse
+9,8,17,Marseille
+9,4,18,Troyes
+9,4,19,Montpellier
+9,3,20,Gaz. Ajaccio
+10,26,1,Paris SG
+10,21,2,Angers
+10,21,3,Caen
+10,19,4,St Etienne
+10,17,5,Nice
+10,16,6,Rennes
+10,16,7,Lyon
+10,16,8,Nantes
+10,15,9,Lorient
+10,15,10,Reims
+10,14,11,Monaco
+10,14,12,Guingamp
+10,11,13,Bordeaux
+10,11,14,Lille
+10,10,15,Bastia
+10,9,16,Marseille
+10,8,17,Toulouse
+10,5,18,Montpellier
+10,4,19,Troyes
+10,3,20,Gaz. Ajaccio
+11,29,1,Paris SG
+11,22,2,Angers
+11,21,3,Caen
+11,19,4,St Etienne
 11,19,5,Nantes
-11,18,6,Bordeaux
-11,17,7,Nice
-11,17,8,Monaco
-11,15,9,Metz
-11,15,10,Lille
-11,15,11,Rennes
-11,14,12,Toulouse
-11,14,13,Montpellier
-11,14,14,Reims
-11,12,15,Caen
-11,11,16,Lens
-11,10,17,Evian TG
-11,10,18,Bastia
-11,10,19,Lorient
-11,9,20,Guingamp
-12,28,1,Marseille
-12,24,2,Paris SG
-12,23,3,Lyon
-12,21,4,St Etienne
-12,21,5,Bordeaux
-12,20,6,Nantes
-12,18,7,Monaco
-12,18,8,Metz
-12,17,9,Nice
-12,17,10,Montpellier
-12,16,11,Rennes
-12,16,12,Lille
-12,15,13,Reims
-12,14,14,Toulouse
-12,12,15,Caen
-12,12,16,Guingamp
-12,11,17,Lens
-12,10,18,Evian TG
-12,10,19,Bastia
-12,10,20,Lorient
-13,28,1,Marseille
-13,27,2,Paris SG
-13,26,3,Lyon
-13,24,4,Bordeaux
-13,23,5,Nantes
-13,22,6,St Etienne
-13,19,7,Monaco
-13,19,8,Rennes
-13,18,9,Metz
-13,18,10,Reims
-13,17,11,Nice
-13,17,12,Montpellier
-13,17,13,Toulouse
-13,16,14,Lille
-13,13,15,Evian TG
-13,13,16,Bastia
-13,12,17,Caen
-13,12,18,Guingamp
-13,11,19,Lens
-13,10,20,Lorient
-14,31,1,Marseille
-14,30,2,Paris SG
-14,27,3,Lyon
-14,24,4,Nantes
-14,24,5,Bordeaux
-14,23,6,St Etienne
-14,22,7,Rennes
-14,20,8,Monaco
-14,20,9,Montpellier
-14,19,10,Reims
-14,19,11,Lille
-14,18,12,Nice
-14,18,13,Metz
-14,17,14,Toulouse
-14,14,15,Bastia
-14,13,16,Evian TG
-14,13,17,Caen
-14,13,18,Lorient
-14,12,19,Guingamp
-14,11,20,Lens
-15,34,1,Marseille
-15,33,2,Paris SG
-15,27,3,Lyon
-15,27,4,Bordeaux
-15,26,5,St Etienne
-15,25,6,Rennes
-15,24,7,Nantes
-15,22,8,Reims
-15,21,9,Montpellier
-15,20,10,Monaco
-15,19,11,Lille
-15,18,12,Nice
-15,18,13,Metz
-15,17,14,Toulouse
-15,16,15,Evian TG
-15,16,16,Lorient
-15,14,17,Bastia
-15,14,18,Caen
-15,14,19,Lens
-15,12,20,Guingamp
-16,35,1,Marseille
-16,34,2,Paris SG
-16,30,3,Lyon
-16,29,4,St Etienne
-16,28,5,Bordeaux
-16,28,6,Rennes
-16,24,7,Nantes
-16,23,8,Monaco
-16,22,9,Reims
-16,21,10,Montpellier
-16,20,11,Lille
-16,20,12,Toulouse
-16,19,13,Metz
-16,19,14,Evian TG
-16,18,15,Nice
-16,17,16,Lorient
-16,15,17,Guingamp
-16,14,18,Bastia
-16,14,19,Lens
-16,14,20,Caen
-17,38,1,Marseille
-17,37,2,Paris SG
-17,33,3,Lyon
-17,32,4,St Etienne
-17,31,5,Bordeaux
-17,28,6,Rennes
-17,26,7,Monaco
-17,24,8,Nantes
-17,24,9,Montpellier
-17,22,10,Reims
-17,21,11,Lille
-17,21,12,Nice
-17,20,13,Toulouse
-17,19,14,Evian TG
-17,19,15,Metz
-17,18,16,Guingamp
-17,17,17,Lorient
-17,15,18,Lens
-17,14,19,Bastia
-17,14,20,Caen
-18,38,1,Marseille
-18,37,2,Paris SG
-18,36,3,Lyon
-18,33,4,St Etienne
-18,31,5,Bordeaux
-18,29,6,Monaco
-18,28,7,Rennes
-18,27,8,Nantes
-18,25,9,Montpellier
-18,25,10,Reims
-18,24,11,Lille
-18,22,12,Nice
-18,21,13,Guingamp
-18,20,14,Toulouse
-18,20,15,Lorient
-18,19,16,Evian TG
-18,19,17,Metz
-18,17,18,Bastia
-18,16,19,Lens
-18,14,20,Caen
-19,41,1,Marseille
-19,39,2,Lyon
-19,38,3,Paris SG
-19,36,4,St Etienne
-19,32,5,Monaco
-19,31,6,Bordeaux
-19,30,7,Nantes
-19,28,8,Rennes
-19,28,9,Reims
-19,26,10,Montpellier
-19,24,11,Lille
-19,22,12,Nice
-19,22,13,Guingamp
-19,21,14,Toulouse
-19,20,15,Lorient
-19,19,16,Evian TG
-19,19,17,Metz
-19,19,18,Lens
-19,18,19,Bastia
-19,15,20,Caen
-20,42,1,Lyon
-20,41,2,Marseille
-20,39,3,St Etienne
-20,38,4,Paris SG
-20,33,5,Monaco
-20,32,6,Bordeaux
-20,31,7,Nantes
-20,29,8,Rennes
-20,29,9,Montpellier
-20,28,10,Reims
-20,27,11,Lille
-20,25,12,Nice
-20,25,13,Guingamp
-20,21,14,Toulouse
-20,21,15,Bastia
-20,20,16,Evian TG
-20,20,17,Metz
-20,20,18,Lorient
-20,19,19,Lens
-20,15,20,Caen
-21,45,1,Lyon
-21,44,2,Marseille
-21,41,3,Paris SG
-21,40,4,St Etienne
-21,36,5,Monaco
-21,32,6,Bordeaux
-21,32,7,Montpellier
-21,31,8,Nantes
-21,30,9,Rennes
-21,28,10,Reims
-21,28,11,Nice
-21,27,12,Lille
-21,25,13,Guingamp
-21,23,14,Lorient
-21,22,15,Bastia
-21,22,16,Toulouse
-21,20,17,Evian TG
-21,20,18,Metz
-21,19,19,Lens
-21,18,20,Caen
-22,48,1,Lyon
-22,44,2,Marseille
-22,44,3,Paris SG
-22,40,4,St Etienne
-22,39,5,Monaco
-22,35,6,Montpellier
-22,33,7,Bordeaux
-22,31,8,Nantes
-22,31,9,Nice
-22,30,10,Rennes
-22,29,11,Reims
-22,28,12,Guingamp
-22,27,13,Lille
-22,23,14,Bastia
-22,23,15,Lorient
-22,23,16,Evian TG
-22,22,17,Toulouse
-22,21,18,Caen
-22,20,19,Metz
-22,20,20,Lens
-23,49,1,Lyon
-23,47,2,Marseille
-23,47,3,Paris SG
-23,40,4,Monaco
-23,40,5,St Etienne
-23,36,6,Montpellier
-23,34,7,Bordeaux
-23,32,8,Nice
+11,19,6,Lyon
+11,17,7,Rennes
+11,17,8,Nice
+11,17,9,Monaco
+11,16,10,Lorient
+11,15,11,Reims
+11,15,12,Guingamp
+11,14,13,Bordeaux
+11,12,14,Marseille
+11,11,15,Lille
+11,10,16,Bastia
+11,8,17,Toulouse
+11,8,18,Montpellier
+11,6,19,Gaz. Ajaccio
+11,4,20,Troyes
+12,32,1,Paris SG
+12,22,2,Angers
+12,22,3,Lyon
+12,22,4,St Etienne
+12,21,5,Caen
+12,20,6,Monaco
+12,19,7,Nantes
+12,18,8,Nice
+12,17,9,Rennes
+12,17,10,Lorient
+12,16,11,Guingamp
+12,15,12,Reims
+12,15,13,Marseille
+12,14,14,Bordeaux
+12,13,15,Bastia
+12,12,16,Lille
+12,9,17,Montpellier
+12,9,18,Toulouse
+12,9,19,Gaz. Ajaccio
+12,4,20,Troyes
+13,35,1,Paris SG
+13,25,2,Lyon
+13,24,3,Caen
+13,22,4,Angers
+13,22,5,St Etienne
+13,21,6,Nice
+13,20,7,Monaco
+13,20,8,Rennes
+13,20,9,Lorient
+13,19,10,Nantes
+13,17,11,Bordeaux
+13,16,12,Guingamp
+13,15,13,Reims
+13,15,14,Marseille
+13,14,15,Bastia
+13,13,16,Lille
+13,12,17,Gaz. Ajaccio
+13,12,18,Montpellier
+13,9,19,Toulouse
+13,4,20,Troyes
+14,38,1,Paris SG
+14,25,2,Caen
+14,25,3,Lyon
+14,24,4,Nice
+14,23,5,Angers
+14,23,6,Monaco
+14,22,7,St Etienne
+14,21,8,Rennes
+14,20,9,Lorient
+14,19,10,Nantes
+14,19,11,Guingamp
+14,18,12,Bordeaux
+14,18,13,Marseille
+14,15,14,Reims
+14,15,15,Gaz. Ajaccio
+14,15,16,Montpellier
+14,14,17,Bastia
+14,14,18,Lille
+14,9,19,Toulouse
+14,5,20,Troyes
+15,41,1,Paris SG
+15,28,2,Caen
+15,26,3,Angers
+15,25,4,Lyon
+15,25,5,St Etienne
+15,24,6,Monaco
+15,24,7,Nice
+15,22,8,Rennes
+15,21,9,Lorient
+15,20,10,Nantes
+15,19,11,Guingamp
+15,19,12,Marseille
+15,18,13,Bordeaux
+15,18,14,Montpellier
+15,16,15,Gaz. Ajaccio
+15,16,16,Reims
+15,15,17,Bastia
+15,14,18,Lille
+15,12,19,Toulouse
+15,5,20,Troyes
+16,42,1,Paris SG
+16,29,2,Caen
+16,27,3,Angers
+16,26,4,Lyon
+16,25,5,Monaco
+16,25,6,Nice
+16,25,7,St Etienne
+16,22,8,Rennes
+16,22,9,Lorient
+16,22,10,Marseille
+16,21,11,Nantes
+16,19,12,Guingamp
+16,19,13,Gaz. Ajaccio
+16,19,14,Reims
+16,18,15,Montpellier
+16,18,16,Bordeaux
+16,18,17,Bastia
+16,17,18,Lille
+16,15,19,Toulouse
+16,5,20,Troyes
+17,45,1,Paris SG
+17,30,2,Angers
+17,29,3,Caen
+17,28,4,Monaco
+17,26,5,Lyon
+17,26,6,St Etienne
+17,25,7,Nice
+17,25,8,Lorient
+17,23,9,Rennes
+17,23,10,Marseille
+17,22,11,Nantes
+17,21,12,Bordeaux
+17,20,13,Gaz. Ajaccio
+17,20,14,Reims
+17,20,15,Lille
+17,19,16,Montpellier
+17,19,17,Guingamp
+17,18,18,Bastia
+17,15,19,Toulouse
+17,6,20,Troyes
+18,48,1,Paris SG
+18,31,2,Angers
+18,31,3,Monaco
+18,30,4,Caen
+18,26,5,Nice
+18,26,6,Lyon
+18,26,7,St Etienne
+18,25,8,Lorient
+18,24,9,Rennes
+18,24,10,Marseille
+18,23,11,Nantes
+18,23,12,Lille
+18,22,13,Bordeaux
+18,22,14,Montpellier
+18,21,15,Gaz. Ajaccio
+18,21,16,Reims
+18,19,17,Bastia
+18,19,18,Guingamp
+18,16,19,Toulouse
+18,7,20,Troyes
+19,51,1,Paris SG
+19,32,2,Monaco
+19,31,3,Angers
+19,30,4,Caen
+19,29,5,Nice
+19,29,6,St Etienne
+19,27,7,Rennes
+19,26,8,Lorient
+19,26,9,Lyon
+19,25,10,Marseille
+19,24,11,Nantes
+19,24,12,Lille
+19,24,13,Gaz. Ajaccio
+19,23,14,Bordeaux
+19,22,15,Montpellier
+19,22,16,Bastia
+19,21,17,Reims
+19,19,18,Guingamp
+19,17,19,Toulouse
+19,8,20,Troyes
+20,54,1,Paris SG
+20,34,2,Angers
+20,33,3,Monaco
+20,30,4,Nice
+20,30,5,Caen
+20,29,6,St Etienne
+20,29,7,Lyon
+20,28,8,Rennes
+20,27,9,Lorient
+20,27,10,Nantes
+20,26,11,Marseille
+20,26,12,Bordeaux
+20,25,13,Gaz. Ajaccio
+20,25,14,Lille
+20,22,15,Bastia
+20,22,16,Montpellier
+20,21,17,Reims
+20,20,18,Guingamp
+20,20,19,Toulouse
+20,8,20,Troyes
+21,57,1,Paris SG
+21,36,2,Monaco
+21,34,3,Angers
+21,33,4,Nice
+21,32,5,St Etienne
+21,31,6,Rennes
+21,30,7,Caen
+21,29,8,Lyon
+21,29,9,Bordeaux
+21,29,10,Marseille
+21,28,11,Nantes
+21,27,12,Lorient
+21,26,13,Gaz. Ajaccio
+21,25,14,Lille
+21,25,15,Bastia
+21,22,16,Reims
+21,22,17,Montpellier
+21,21,18,Guingamp
+21,20,19,Toulouse
+21,8,20,Troyes
+22,60,1,Paris SG
+22,39,2,Monaco
+22,36,3,Nice
+22,34,4,Angers
+22,34,5,Rennes
+22,33,6,St Etienne
+22,33,7,Caen
+22,30,8,Bordeaux
+22,30,9,Lyon
+22,30,10,Marseille
+22,29,11,Nantes
+22,27,12,Lorient
+22,26,13,Gaz. Ajaccio
+22,25,14,Bastia
+22,25,15,Lille
+22,24,16,Guingamp
+22,23,17,Reims
+22,22,18,Montpellier
+22,20,19,Toulouse
+22,11,20,Troyes
+23,63,1,Paris SG
+23,39,2,Monaco
+23,37,3,Angers
+23,36,4,Nice
+23,36,5,Caen
+23,34,6,Rennes
+23,33,7,St Etienne
+23,33,8,Bordeaux
 23,32,9,Nantes
-23,30,10,Rennes
-23,29,11,Reims
-23,29,12,Guingamp
-23,28,13,Lille
-23,25,14,Toulouse
-23,24,15,Bastia
-23,24,16,Lorient
-23,24,17,Caen
-23,23,18,Evian TG
-23,21,19,Metz
-23,21,20,Lens
-24,50,1,Lyon
-24,48,2,Marseille
-24,48,3,Paris SG
-24,41,4,St Etienne
-24,40,5,Monaco
-24,37,6,Bordeaux
-24,36,7,Montpellier
-24,33,8,Nice
-24,33,9,Nantes
-24,32,10,Guingamp
-24,31,11,Rennes
-24,31,12,Lille
-24,29,13,Reims
-24,27,14,Bastia
-24,27,15,Lorient
-24,27,16,Caen
-24,25,17,Toulouse
-24,23,18,Evian TG
-24,22,19,Lens
-24,21,20,Metz
-25,51,1,Lyon
-25,49,2,Marseille
-25,49,3,Paris SG
-25,41,4,Monaco
-25,41,5,St Etienne
-25,40,6,Bordeaux
-25,37,7,Montpellier
-25,35,8,Guingamp
-25,34,9,Nice
-25,33,10,Nantes
-25,32,11,Lille
-25,31,12,Rennes
-25,30,13,Reims
-25,30,14,Bastia
-25,28,15,Lorient
-25,28,16,Caen
-25,28,17,Toulouse
-25,26,18,Evian TG
-25,22,19,Lens
-25,21,20,Metz
-26,54,1,Lyon
-26,52,2,Paris SG
-26,50,3,Marseille
-26,44,4,Monaco
-26,42,5,St Etienne
-26,41,6,Bordeaux
-26,40,7,Montpellier
-26,35,8,Guingamp
-26,34,9,Nice
-26,33,10,Nantes
-26,33,11,Bastia
-26,32,12,Rennes
-26,32,13,Lille
-26,31,14,Reims
-26,31,15,Caen
-26,29,16,Evian TG
-26,28,17,Toulouse
-26,28,18,Lorient
-26,22,19,Metz
-26,22,20,Lens
-27,54,1,Lyon
-27,53,2,Paris SG
-27,50,3,Marseille
-27,45,4,Monaco
-27,43,5,St Etienne
-27,43,6,Montpellier
-27,42,7,Bordeaux
-27,36,8,Nantes
-27,35,9,Guingamp
-27,35,10,Rennes
-27,35,11,Lille
-27,34,12,Nice
-27,34,13,Caen
-27,33,14,Bastia
-27,32,15,Reims
-27,32,16,Evian TG
-27,31,17,Lorient
-27,29,18,Toulouse
-27,22,19,Metz
-27,22,20,Lens
-28,57,1,Lyon
-28,56,2,Paris SG
-28,53,3,Marseille
-28,48,4,Monaco
-28,46,5,St Etienne
-28,45,6,Bordeaux
-28,43,7,Montpellier
-28,38,8,Rennes
-28,38,9,Lille
-28,36,10,Nantes
-28,36,11,Bastia
-28,35,12,Guingamp
-28,35,13,Reims
-28,34,14,Nice
-28,34,15,Caen
-28,32,16,Evian TG
-28,31,17,Lorient
-28,29,18,Toulouse
-28,22,19,Metz
-28,22,20,Lens
-29,58,1,Lyon
-29,56,2,Paris SG
-29,54,3,Marseille
-29,51,4,Monaco
-29,49,5,St Etienne
-29,48,6,Bordeaux
-29,46,7,Montpellier
-29,41,8,Lille
-29,39,9,Nantes
-29,38,10,Rennes
-29,38,11,Guingamp
-29,36,12,Bastia
-29,35,13,Reims
-29,34,14,Nice
-29,34,15,Caen
-29,34,16,Lorient
-29,32,17,Evian TG
-29,29,18,Toulouse
-29,25,19,Lens
-29,22,20,Metz
-30,59,1,Paris SG
-30,58,2,Lyon
-30,57,3,Marseille
-30,54,4,Monaco
-30,52,5,St Etienne
-30,48,6,Bordeaux
-30,46,7,Montpellier
-30,41,8,Lille
-30,40,9,Nantes
-30,39,10,Rennes
-30,39,11,Guingamp
-30,37,12,Bastia
-30,37,13,Nice
-30,35,14,Reims
-30,35,15,Caen
-30,35,16,Evian TG
-30,34,17,Lorient
-30,32,18,Toulouse
-30,25,19,Lens
-30,23,20,Metz
-31,62,1,Paris SG
-31,61,2,Lyon
-31,57,3,Marseille
-31,55,4,Monaco
-31,53,5,St Etienne
-31,51,6,Bordeaux
-31,49,7,Montpellier
-31,44,8,Lille
-31,42,9,Rennes
-31,40,10,Nantes
-31,39,11,Guingamp
-31,38,12,Nice
-31,38,13,Caen
-31,37,14,Bastia
-31,36,15,Evian TG
-31,35,16,Reims
-31,34,17,Lorient
-31,32,18,Toulouse
-31,26,19,Metz
-31,25,20,Lens
-32,65,1,Paris SG
-32,64,2,Lyon
-32,58,3,Monaco
-32,57,4,Marseille
-32,56,5,St Etienne
-32,54,6,Bordeaux
-32,49,7,Montpellier
-32,47,8,Lille
-32,45,9,Rennes
-32,41,10,Nice
-32,40,11,Nantes
-32,39,12,Guingamp
-32,38,13,Caen
-32,37,14,Bastia
-32,36,15,Evian TG
-32,35,16,Reims
-32,35,17,Lorient
-32,35,18,Toulouse
-32,26,19,Metz
-32,26,20,Lens
-33,68,1,Paris SG
-33,65,2,Lyon
-33,59,3,Monaco
-33,57,4,Marseille
-33,57,5,St Etienne
-33,54,6,Bordeaux
-33,52,7,Montpellier
-33,50,8,Lille
-33,46,9,Rennes
-33,43,10,Nantes
-33,41,11,Nice
-33,40,12,Guingamp
-33,38,13,Caen
-33,38,14,Toulouse
-33,38,15,Reims
-33,37,16,Evian TG
-33,37,17,Bastia
-33,35,18,Lorient
-33,29,19,Metz
-33,26,20,Lens
-34,71,1,Paris SG
-34,68,2,Lyon
-34,62,3,Monaco
-34,60,4,St Etienne
-34,57,5,Marseille
-34,55,6,Bordeaux
-34,52,7,Montpellier
-34,50,8,Lille
-34,49,9,Rennes
+23,31,10,Marseille
+23,30,11,Lyon
+23,30,12,Lorient
+23,28,13,Bastia
+23,27,14,Guingamp
+23,26,15,Gaz. Ajaccio
+23,26,16,Lille
+23,25,17,Montpellier
+23,23,18,Reims
+23,20,19,Toulouse
+23,11,20,Troyes
+24,66,1,Paris SG
+24,42,2,Monaco
+24,39,3,Nice
+24,37,4,Angers
+24,36,5,Caen
+24,36,6,St Etienne
+24,35,7,Nantes
+24,34,8,Rennes
+24,34,9,Marseille
+24,33,10,Bordeaux
+24,33,11,Lyon
+24,30,12,Lorient
+24,30,13,Guingamp
+24,29,14,Lille
+24,28,15,Bastia
+24,26,16,Gaz. Ajaccio
+24,26,17,Reims
+24,25,18,Montpellier
+24,20,19,Toulouse
+24,11,20,Troyes
+25,69,1,Paris SG
+25,45,2,Monaco
+25,39,3,Nice
+25,39,4,St Etienne
+25,37,5,Angers
+25,36,6,Nantes
+25,36,7,Caen
+25,36,8,Lyon
+25,35,9,Rennes
+25,34,10,Marseille
+25,33,11,Bordeaux
+25,31,12,Lorient
+25,31,13,Guingamp
+25,31,14,Bastia
+25,30,15,Lille
+25,29,16,Reims
+25,27,17,Gaz. Ajaccio
+25,26,18,Montpellier
+25,21,19,Toulouse
+25,11,20,Troyes
+26,70,1,Paris SG
+26,46,2,Monaco
+26,40,3,Nice
+26,40,4,St Etienne
+26,39,5,Nantes
+26,39,6,Lyon
+26,38,7,Rennes
+26,37,8,Angers
+26,36,9,Caen
+26,36,10,Bordeaux
+26,35,11,Marseille
+26,34,12,Bastia
+26,31,13,Lorient
+26,31,14,Guingamp
+26,31,15,Lille
+26,29,16,Reims
+26,29,17,Montpellier
+26,27,18,Gaz. Ajaccio
+26,21,19,Toulouse
+26,14,20,Troyes
+27,73,1,Paris SG
+27,49,2,Monaco
+27,41,3,Nice
+27,41,4,St Etienne
+27,40,5,Nantes
+27,39,6,Lyon
+27,39,7,Caen
+27,38,8,Rennes
+27,37,9,Angers
+27,37,10,Bordeaux
+27,36,11,Marseille
+27,35,12,Bastia
+27,34,13,Lorient
+27,34,14,Lille
+27,32,15,Montpellier
+27,31,16,Guingamp
+27,29,17,Reims
+27,28,18,Gaz. Ajaccio
+27,22,19,Toulouse
+27,14,20,Troyes
+28,73,1,Paris SG
+28,50,2,Monaco
+28,42,3,Caen
+28,42,4,Lyon
+28,41,5,Nantes
+28,41,6,Nice
+28,41,7,St Etienne
+28,41,8,Rennes
+28,38,9,Angers
+28,38,10,Bastia
+28,37,11,Bordeaux
+28,37,12,Marseille
+28,37,13,Lorient
+28,35,14,Montpellier
+28,34,15,Lille
+28,32,16,Guingamp
+28,32,17,Reims
+28,29,18,Gaz. Ajaccio
+28,22,19,Toulouse
+28,14,20,Troyes
+29,74,1,Paris SG
+29,51,2,Monaco
+29,45,3,Lyon
+29,44,4,Rennes
+29,44,5,Nice
+29,43,6,Caen
+29,42,7,St Etienne
+29,41,8,Nantes
+29,39,9,Angers
+29,39,10,Bastia
+29,38,11,Lorient
+29,38,12,Bordeaux
+29,38,13,Marseille
+29,37,14,Lille
+29,36,15,Montpellier
+29,32,16,Reims
+29,32,17,Guingamp
+29,30,18,Gaz. Ajaccio
+29,23,19,Toulouse
+29,14,20,Troyes
+30,77,1,Paris SG
+30,52,2,Monaco
+30,47,3,Nice
+30,46,4,Lyon
+30,45,5,Rennes
+30,44,6,Nantes
+30,43,7,Caen
+30,42,8,St Etienne
+30,40,9,Lille
+30,39,10,Angers
+30,39,11,Bastia
+30,39,12,Lorient
+30,39,13,Marseille
+30,38,14,Bordeaux
+30,36,15,Montpellier
+30,35,16,Guingamp
+30,33,17,Reims
+30,33,18,Gaz. Ajaccio
+30,26,19,Toulouse
+30,14,20,Troyes
+31,77,1,Paris SG
+31,55,2,Monaco
+31,50,3,Nice
+31,49,4,Lyon
+31,48,5,Rennes
+31,46,6,Caen
+31,45,7,St Etienne
+31,44,8,Nantes
+31,43,9,Lille
+31,42,10,Angers
+31,40,11,Bastia
+31,39,12,Lorient
+31,39,13,Bordeaux
+31,39,14,Marseille
+31,38,15,Guingamp
+31,36,16,Montpellier
+31,33,17,Gaz. Ajaccio
+31,33,18,Reims
+31,26,19,Toulouse
+31,14,20,Troyes
+32,80,1,Paris SG
+32,55,2,Monaco
+32,52,3,Lyon
+32,51,4,Rennes
+32,50,5,Nice
+32,48,6,St Etienne
+32,46,7,Caen
+32,46,8,Lille
+32,45,9,Angers
+32,44,10,Nantes
+32,43,11,Bastia
+32,42,12,Bordeaux
+32,39,13,Lorient
+32,39,14,Guingamp
+32,39,15,Marseille
+32,37,16,Montpellier
+32,33,17,Gaz. Ajaccio
+32,33,18,Reims
+32,29,19,Toulouse
+32,14,20,Troyes
+33,83,1,Paris SG
+33,55,2,Monaco
+33,55,3,Lyon
+33,53,4,Nice
+33,51,5,Rennes
+33,51,6,St Etienne
+33,49,7,Lille
+33,46,8,Angers
+33,46,9,Caen
+33,44,10,Nantes
+33,43,11,Bastia
+33,43,12,Bordeaux
+33,42,13,Lorient
+33,40,14,Marseille
+33,39,15,Guingamp
+33,37,16,Montpellier
+33,36,17,Reims
+33,34,18,Gaz. Ajaccio
+33,32,19,Toulouse
+33,14,20,Troyes
+34,86,1,Paris SG
+34,58,2,Monaco
+34,56,3,Lyon
+34,54,4,Nice
+34,54,5,St Etienne
+34,52,6,Lille
+34,51,7,Rennes
+34,49,8,Angers
+34,46,9,Caen
 34,44,10,Nantes
-34,43,11,Guingamp
-34,41,12,Nice
-34,40,13,Bastia
-34,39,14,Toulouse
-34,38,15,Reims
-34,38,16,Caen
-34,38,17,Lorient
-34,37,18,Evian TG
-34,30,19,Metz
-34,26,20,Lens
-35,74,1,Paris SG
-35,71,2,Lyon
-35,65,3,Monaco
-35,60,4,St Etienne
-35,60,5,Marseille
-35,56,6,Bordeaux
-35,53,7,Montpellier
-35,53,8,Lille
-35,50,9,Rennes
-35,46,10,Guingamp
-35,44,11,Nantes
+34,43,11,Bastia
+34,43,12,Lorient
+34,43,13,Bordeaux
+34,42,14,Guingamp
+34,40,15,Marseille
+34,40,16,Montpellier
+34,36,17,Reims
+34,34,18,Gaz. Ajaccio
+34,33,19,Toulouse
+34,17,20,Troyes
+35,87,1,Paris SG
+35,59,2,Monaco
+35,59,3,Lyon
+35,57,4,Nice
+35,57,5,St Etienne
+35,53,6,Lille
+35,52,7,Rennes
+35,50,8,Angers
+35,47,9,Caen
+35,45,10,Nantes
+35,44,11,Bordeaux
 35,43,12,Bastia
-35,42,13,Nice
-35,39,14,Toulouse
-35,39,15,Lorient
-35,39,16,Caen
-35,38,17,Reims
-35,37,18,Evian TG
-35,30,19,Metz
-35,26,20,Lens
-36,77,1,Paris SG
-36,71,2,Lyon
-36,65,3,Monaco
-36,63,4,Marseille
-36,63,5,St Etienne
-36,59,6,Bordeaux
-36,56,7,Montpellier
-36,53,8,Lille
-36,50,9,Rennes
-36,46,10,Guingamp
-36,46,11,Bastia
-36,44,12,Nantes
-36,42,13,Nice
-36,42,14,Toulouse
-36,42,15,Lorient
-36,42,16,Caen
-36,41,17,Reims
-36,37,18,Evian TG
-36,30,19,Metz
-36,26,20,Lens
-37,80,1,Paris SG
-37,72,2,Lyon
-37,68,3,Monaco
-37,66,4,Marseille
-37,66,5,St Etienne
-37,60,6,Bordeaux
-37,56,7,Montpellier
-37,53,8,Lille
-37,50,9,Rennes
-37,49,10,Guingamp
-37,47,11,Bastia
-37,45,12,Nantes
-37,45,13,Nice
-37,44,14,Reims
-37,43,15,Lorient
-37,43,16,Caen
-37,42,17,Toulouse
-37,37,18,Evian TG
-37,30,19,Metz
-37,26,20,Lens
-38,83,1,Paris SG
-38,75,2,Lyon
-38,71,3,Monaco
-38,69,4,Marseille
-38,69,5,St Etienne
-38,63,6,Bordeaux
-38,56,7,Montpellier
-38,56,8,Lille
-38,50,9,Rennes
-38,49,10,Guingamp
-38,48,11,Nice
-38,47,12,Bastia
-38,46,13,Caen
-38,45,14,Nantes
-38,44,15,Reims
-38,43,16,Lorient
-38,42,17,Toulouse
-38,37,18,Evian TG
-38,30,19,Metz
-38,29,20,Lens
+35,43,13,Lorient
+35,43,14,Guingamp
+35,43,15,Montpellier
+35,41,16,Marseille
+35,37,17,Gaz. Ajaccio
+35,36,18,Reims
+35,33,19,Toulouse
+35,17,20,Troyes
+36,90,1,Paris SG
+36,62,2,Monaco
+36,62,3,Lyon
+36,58,4,St Etienne
+36,57,5,Nice
+36,56,6,Lille
+36,52,7,Rennes
+36,50,8,Angers
+36,48,9,Caen
+36,48,10,Nantes
+36,47,11,Bordeaux
+36,46,12,Montpellier
+36,44,13,Bastia
+36,44,14,Marseille
+36,43,15,Lorient
+36,43,16,Guingamp
+36,37,17,Gaz. Ajaccio
+36,36,18,Reims
+36,34,19,Toulouse
+36,17,20,Troyes
+37,93,1,Paris SG
+37,65,2,Lyon
+37,62,3,Monaco
+37,60,4,Nice
+37,58,5,St Etienne
+37,57,6,Lille
+37,52,7,Rennes
+37,51,8,Caen
+37,50,9,Angers
+37,50,10,Bordeaux
+37,49,11,Montpellier
+37,48,12,Nantes
+37,47,13,Bastia
+37,47,14,Marseille
+37,44,15,Guingamp
+37,43,16,Lorient
+37,37,17,Gaz. Ajaccio
+37,37,18,Toulouse
+37,36,19,Reims
+37,17,20,Troyes
+38,96,1,Paris SG
+38,65,2,Lyon
+38,65,3,Monaco
+38,63,4,Nice
+38,60,5,Lille
+38,58,6,St Etienne
+38,54,7,Caen
+38,52,8,Rennes
+38,50,9,Angers
+38,50,10,Bordeaux
+38,50,11,Bastia
+38,49,12,Montpellier
+38,48,13,Nantes
+38,48,14,Marseille
+38,46,15,Lorient
+38,44,16,Guingamp
+38,40,17,Toulouse
+38,39,18,Reims
+38,37,19,Gaz. Ajaccio
+38,18,20,Troyes
