@@ -1,781 +1,781 @@
 day,pts,rank,team
-0,0,1,Monaco
-0,0,2,Nantes
-0,0,3,Gaz. Ajaccio
-0,0,4,Angers
-0,0,5,Troyes
-0,0,6,Bastia
-0,0,7,Rennes
-0,0,8,Nice
-0,0,9,Lorient
-0,0,10,Caen
-0,0,11,Paris SG
-0,0,12,Reims
-0,0,13,Montpellier
-0,0,14,Bordeaux
-0,0,15,Guingamp
-0,0,16,Lyon
-0,0,17,St Etienne
-0,0,18,Toulouse
-0,0,19,Marseille
-0,0,20,Lille
-1,3,1,Monaco
-1,3,2,Nantes
-1,3,3,Angers
-1,3,4,Bastia
-1,3,5,Caen
-1,3,6,Paris SG
-1,3,7,Reims
-1,3,8,Toulouse
-1,1,9,Gaz. Ajaccio
-1,1,10,Troyes
-1,1,11,Lorient
-1,1,12,Lyon
-1,0,13,Rennes
-1,0,14,Nice
-1,0,15,Montpellier
-1,0,16,Bordeaux
-1,0,17,Guingamp
-1,0,18,St Etienne
-1,0,19,Marseille
-1,0,20,Lille
-2,6,1,Caen
-2,6,2,Paris SG
-2,6,3,Reims
-2,4,4,Monaco
-2,4,5,Nantes
-2,4,6,Angers
-2,4,7,Bastia
-2,4,8,Lyon
-2,3,9,Toulouse
-2,3,10,Rennes
-2,2,11,Troyes
-2,2,12,Lorient
-2,1,13,Gaz. Ajaccio
-2,1,14,Nice
-2,1,15,Bordeaux
-2,1,16,St Etienne
-2,1,17,Lille
-2,0,18,Montpellier
-2,0,19,Guingamp
-2,0,20,Marseille
-3,9,1,Paris SG
-3,7,2,Nantes
-3,7,3,Angers
-3,7,4,Bastia
-3,6,5,Caen
-3,6,6,Reims
-3,6,7,Rennes
-3,5,8,Monaco
-3,4,9,Lyon
-3,4,10,Toulouse
-3,4,11,Nice
-3,4,12,St Etienne
-3,3,13,Marseille
-3,2,14,Troyes
-3,2,15,Lorient
-3,2,16,Bordeaux
-3,2,17,Lille
-3,1,18,Gaz. Ajaccio
-3,0,19,Montpellier
-3,0,20,Guingamp
-4,12,1,Paris SG
-4,9,2,Rennes
-4,9,3,Reims
-4,8,4,Angers
-4,7,5,Nantes
-4,7,6,Bastia
-4,7,7,Lyon
-4,7,8,St Etienne
-4,6,9,Caen
-4,5,10,Monaco
-4,5,11,Nice
-4,5,12,Bordeaux
-4,5,13,Lille
-4,4,14,Toulouse
-4,3,15,Troyes
-4,3,16,Marseille
-4,3,17,Guingamp
-4,2,18,Lorient
-4,1,19,Gaz. Ajaccio
-4,1,20,Montpellier
-5,13,1,Paris SG
-5,12,2,Rennes
-5,10,3,Reims
-5,10,4,St Etienne
-5,9,5,Caen
-5,8,6,Angers
-5,8,7,Lyon
-5,8,8,Monaco
-5,7,9,Nantes
-5,7,10,Bastia
-5,6,11,Bordeaux
-5,6,12,Lille
-5,6,13,Guingamp
-5,6,14,Marseille
-5,5,15,Nice
-5,5,16,Toulouse
-5,5,17,Lorient
-5,3,18,Troyes
-5,1,19,Gaz. Ajaccio
-5,1,20,Montpellier
-6,14,1,Paris SG
-6,13,2,Rennes
-6,13,3,St Etienne
-6,12,4,Caen
-6,11,5,Reims
-6,11,6,Angers
-6,9,7,Lyon
-6,9,8,Guingamp
-6,8,9,Monaco
-6,8,10,Nice
-6,8,11,Lorient
-6,7,12,Nantes
-6,7,13,Bastia
-6,7,14,Bordeaux
-6,7,15,Marseille
-6,7,16,Lille
-6,6,17,Toulouse
-6,3,18,Troyes
-6,1,19,Gaz. Ajaccio
-6,1,20,Montpellier
-7,17,1,Paris SG
-7,16,2,St Etienne
-7,14,3,Rennes
-7,12,4,Angers
-7,12,5,Caen
-7,12,6,Reims
-7,12,7,Lyon
-7,11,8,Monaco
-7,11,9,Nice
-7,11,10,Lorient
-7,10,11,Nantes
-7,9,12,Guingamp
-7,8,13,Marseille
-7,7,14,Bastia
-7,7,15,Bordeaux
-7,7,16,Toulouse
-7,7,17,Lille
-7,3,18,Troyes
-7,2,19,Gaz. Ajaccio
-7,1,20,Montpellier
-8,20,1,Paris SG
-8,16,2,St Etienne
-8,15,3,Rennes
-8,15,4,Angers
-8,15,5,Caen
-8,15,6,Reims
-8,14,7,Nice
-8,12,8,Monaco
-8,12,9,Lyon
-8,11,10,Lorient
-8,10,11,Nantes
-8,10,12,Guingamp
-8,10,13,Bastia
-8,10,14,Bordeaux
-8,8,15,Marseille
-8,7,16,Toulouse
-8,7,17,Lille
-8,4,18,Troyes
-8,4,19,Montpellier
-8,2,20,Gaz. Ajaccio
-9,23,1,Paris SG
-9,18,2,Angers
-9,18,3,Caen
-9,16,4,Rennes
-9,16,5,St Etienne
-9,15,6,Reims
-9,15,7,Lyon
-9,14,8,Nice
-9,14,9,Lorient
-9,13,10,Monaco
-9,13,11,Nantes
-9,13,12,Guingamp
-9,10,13,Bastia
-9,10,14,Bordeaux
-9,10,15,Lille
-9,8,16,Toulouse
-9,8,17,Marseille
-9,4,18,Troyes
-9,4,19,Montpellier
-9,3,20,Gaz. Ajaccio
-10,26,1,Paris SG
-10,21,2,Angers
-10,21,3,Caen
-10,19,4,St Etienne
-10,17,5,Nice
-10,16,6,Rennes
-10,16,7,Lyon
-10,16,8,Nantes
-10,15,9,Lorient
-10,15,10,Reims
-10,14,11,Monaco
-10,14,12,Guingamp
-10,11,13,Bordeaux
-10,11,14,Lille
-10,10,15,Bastia
-10,9,16,Marseille
-10,8,17,Toulouse
-10,5,18,Montpellier
-10,4,19,Troyes
-10,3,20,Gaz. Ajaccio
-11,29,1,Paris SG
-11,22,2,Angers
-11,21,3,Caen
-11,19,4,St Etienne
-11,19,5,Nantes
-11,19,6,Lyon
-11,17,7,Rennes
-11,17,8,Nice
-11,17,9,Monaco
-11,16,10,Lorient
-11,15,11,Reims
-11,15,12,Guingamp
-11,14,13,Bordeaux
-11,12,14,Marseille
-11,11,15,Lille
-11,10,16,Bastia
-11,8,17,Toulouse
-11,8,18,Montpellier
-11,6,19,Gaz. Ajaccio
-11,4,20,Troyes
-12,32,1,Paris SG
-12,22,2,Angers
-12,22,3,Lyon
-12,22,4,St Etienne
-12,21,5,Caen
-12,20,6,Monaco
-12,19,7,Nantes
-12,18,8,Nice
-12,17,9,Rennes
-12,17,10,Lorient
-12,16,11,Guingamp
-12,15,12,Reims
-12,15,13,Marseille
-12,14,14,Bordeaux
-12,13,15,Bastia
-12,12,16,Lille
-12,9,17,Montpellier
-12,9,18,Toulouse
-12,9,19,Gaz. Ajaccio
-12,4,20,Troyes
-13,35,1,Paris SG
-13,25,2,Lyon
-13,24,3,Caen
-13,22,4,Angers
-13,22,5,St Etienne
-13,21,6,Nice
-13,20,7,Monaco
-13,20,8,Rennes
-13,20,9,Lorient
-13,19,10,Nantes
-13,17,11,Bordeaux
-13,16,12,Guingamp
-13,15,13,Reims
-13,15,14,Marseille
-13,14,15,Bastia
-13,13,16,Lille
-13,12,17,Gaz. Ajaccio
-13,12,18,Montpellier
-13,9,19,Toulouse
-13,4,20,Troyes
-14,38,1,Paris SG
-14,25,2,Caen
-14,25,3,Lyon
-14,24,4,Nice
-14,23,5,Angers
-14,23,6,Monaco
-14,22,7,St Etienne
-14,21,8,Rennes
-14,20,9,Lorient
-14,19,10,Nantes
-14,19,11,Guingamp
-14,18,12,Bordeaux
-14,18,13,Marseille
-14,15,14,Reims
-14,15,15,Gaz. Ajaccio
-14,15,16,Montpellier
-14,14,17,Bastia
-14,14,18,Lille
-14,9,19,Toulouse
-14,5,20,Troyes
-15,41,1,Paris SG
-15,28,2,Caen
-15,26,3,Angers
-15,25,4,Lyon
-15,25,5,St Etienne
-15,24,6,Monaco
-15,24,7,Nice
-15,22,8,Rennes
-15,21,9,Lorient
-15,20,10,Nantes
-15,19,11,Guingamp
-15,19,12,Marseille
-15,18,13,Bordeaux
-15,18,14,Montpellier
-15,16,15,Gaz. Ajaccio
-15,16,16,Reims
-15,15,17,Bastia
-15,14,18,Lille
-15,12,19,Toulouse
-15,5,20,Troyes
-16,42,1,Paris SG
-16,29,2,Caen
-16,27,3,Angers
-16,26,4,Lyon
-16,25,5,Monaco
-16,25,6,Nice
-16,25,7,St Etienne
-16,22,8,Rennes
-16,22,9,Lorient
-16,22,10,Marseille
-16,21,11,Nantes
-16,19,12,Guingamp
-16,19,13,Gaz. Ajaccio
-16,19,14,Reims
-16,18,15,Montpellier
-16,18,16,Bordeaux
-16,18,17,Bastia
-16,17,18,Lille
-16,15,19,Toulouse
-16,5,20,Troyes
-17,45,1,Paris SG
-17,30,2,Angers
-17,29,3,Caen
-17,28,4,Monaco
-17,26,5,Lyon
-17,26,6,St Etienne
-17,25,7,Nice
-17,25,8,Lorient
-17,23,9,Rennes
-17,23,10,Marseille
-17,22,11,Nantes
-17,21,12,Bordeaux
-17,20,13,Gaz. Ajaccio
-17,20,14,Reims
-17,20,15,Lille
-17,19,16,Montpellier
-17,19,17,Guingamp
-17,18,18,Bastia
-17,15,19,Toulouse
-17,6,20,Troyes
-18,48,1,Paris SG
-18,31,2,Angers
-18,31,3,Monaco
-18,30,4,Caen
-18,26,5,Nice
-18,26,6,Lyon
-18,26,7,St Etienne
-18,25,8,Lorient
-18,24,9,Rennes
-18,24,10,Marseille
-18,23,11,Nantes
-18,23,12,Lille
-18,22,13,Bordeaux
-18,22,14,Montpellier
-18,21,15,Gaz. Ajaccio
-18,21,16,Reims
-18,19,17,Bastia
-18,19,18,Guingamp
-18,16,19,Toulouse
-18,7,20,Troyes
-19,51,1,Paris SG
-19,32,2,Monaco
-19,31,3,Angers
-19,30,4,Caen
-19,29,5,Nice
-19,29,6,St Etienne
-19,27,7,Rennes
-19,26,8,Lorient
-19,26,9,Lyon
-19,25,10,Marseille
-19,24,11,Nantes
-19,24,12,Lille
-19,24,13,Gaz. Ajaccio
-19,23,14,Bordeaux
-19,22,15,Montpellier
-19,22,16,Bastia
-19,21,17,Reims
-19,19,18,Guingamp
-19,17,19,Toulouse
-19,8,20,Troyes
-20,54,1,Paris SG
-20,34,2,Angers
-20,33,3,Monaco
-20,30,4,Nice
-20,30,5,Caen
-20,29,6,St Etienne
-20,29,7,Lyon
-20,28,8,Rennes
-20,27,9,Lorient
-20,27,10,Nantes
-20,26,11,Marseille
-20,26,12,Bordeaux
-20,25,13,Gaz. Ajaccio
-20,25,14,Lille
-20,22,15,Bastia
-20,22,16,Montpellier
-20,21,17,Reims
-20,20,18,Guingamp
-20,20,19,Toulouse
-20,8,20,Troyes
-21,57,1,Paris SG
-21,36,2,Monaco
-21,34,3,Angers
-21,33,4,Nice
-21,32,5,St Etienne
-21,31,6,Rennes
-21,30,7,Caen
-21,29,8,Lyon
-21,29,9,Bordeaux
-21,29,10,Marseille
-21,28,11,Nantes
-21,27,12,Lorient
-21,26,13,Gaz. Ajaccio
-21,25,14,Lille
-21,25,15,Bastia
-21,22,16,Reims
-21,22,17,Montpellier
-21,21,18,Guingamp
-21,20,19,Toulouse
-21,8,20,Troyes
-22,60,1,Paris SG
-22,39,2,Monaco
-22,36,3,Nice
-22,34,4,Angers
-22,34,5,Rennes
-22,33,6,St Etienne
-22,33,7,Caen
-22,30,8,Bordeaux
-22,30,9,Lyon
-22,30,10,Marseille
-22,29,11,Nantes
-22,27,12,Lorient
-22,26,13,Gaz. Ajaccio
-22,25,14,Bastia
-22,25,15,Lille
-22,24,16,Guingamp
-22,23,17,Reims
-22,22,18,Montpellier
-22,20,19,Toulouse
-22,11,20,Troyes
-23,63,1,Paris SG
-23,39,2,Monaco
-23,37,3,Angers
-23,36,4,Nice
-23,36,5,Caen
-23,34,6,Rennes
-23,33,7,St Etienne
-23,33,8,Bordeaux
-23,32,9,Nantes
-23,31,10,Marseille
-23,30,11,Lyon
-23,30,12,Lorient
-23,28,13,Bastia
-23,27,14,Guingamp
-23,26,15,Gaz. Ajaccio
-23,26,16,Lille
-23,25,17,Montpellier
-23,23,18,Reims
-23,20,19,Toulouse
-23,11,20,Troyes
-24,66,1,Paris SG
-24,42,2,Monaco
-24,39,3,Nice
-24,37,4,Angers
-24,36,5,Caen
-24,36,6,St Etienne
-24,35,7,Nantes
-24,34,8,Rennes
-24,34,9,Marseille
-24,33,10,Bordeaux
-24,33,11,Lyon
-24,30,12,Lorient
-24,30,13,Guingamp
-24,29,14,Lille
-24,28,15,Bastia
-24,26,16,Gaz. Ajaccio
-24,26,17,Reims
-24,25,18,Montpellier
-24,20,19,Toulouse
-24,11,20,Troyes
-25,69,1,Paris SG
-25,45,2,Monaco
-25,39,3,Nice
-25,39,4,St Etienne
-25,37,5,Angers
-25,36,6,Nantes
-25,36,7,Caen
-25,36,8,Lyon
-25,35,9,Rennes
-25,34,10,Marseille
-25,33,11,Bordeaux
-25,31,12,Lorient
-25,31,13,Guingamp
-25,31,14,Bastia
-25,30,15,Lille
-25,29,16,Reims
-25,27,17,Gaz. Ajaccio
-25,26,18,Montpellier
-25,21,19,Toulouse
-25,11,20,Troyes
-26,70,1,Paris SG
-26,46,2,Monaco
-26,40,3,Nice
-26,40,4,St Etienne
-26,39,5,Nantes
-26,39,6,Lyon
-26,38,7,Rennes
-26,37,8,Angers
-26,36,9,Caen
-26,36,10,Bordeaux
-26,35,11,Marseille
-26,34,12,Bastia
-26,31,13,Lorient
-26,31,14,Guingamp
-26,31,15,Lille
-26,29,16,Reims
-26,29,17,Montpellier
-26,27,18,Gaz. Ajaccio
-26,21,19,Toulouse
-26,14,20,Troyes
-27,73,1,Paris SG
-27,49,2,Monaco
-27,41,3,Nice
-27,41,4,St Etienne
-27,40,5,Nantes
-27,39,6,Lyon
-27,39,7,Caen
-27,38,8,Rennes
-27,37,9,Angers
-27,37,10,Bordeaux
-27,36,11,Marseille
-27,35,12,Bastia
-27,34,13,Lorient
-27,34,14,Lille
-27,32,15,Montpellier
-27,31,16,Guingamp
-27,29,17,Reims
-27,28,18,Gaz. Ajaccio
-27,22,19,Toulouse
-27,14,20,Troyes
-28,73,1,Paris SG
-28,50,2,Monaco
-28,42,3,Caen
-28,42,4,Lyon
-28,41,5,Nantes
-28,41,6,Nice
-28,41,7,St Etienne
-28,41,8,Rennes
-28,38,9,Angers
-28,38,10,Bastia
-28,37,11,Bordeaux
-28,37,12,Marseille
-28,37,13,Lorient
-28,35,14,Montpellier
-28,34,15,Lille
-28,32,16,Guingamp
-28,32,17,Reims
-28,29,18,Gaz. Ajaccio
-28,22,19,Toulouse
-28,14,20,Troyes
-29,74,1,Paris SG
-29,51,2,Monaco
-29,45,3,Lyon
-29,44,4,Rennes
-29,44,5,Nice
-29,43,6,Caen
-29,42,7,St Etienne
-29,41,8,Nantes
-29,39,9,Angers
-29,39,10,Bastia
-29,38,11,Lorient
-29,38,12,Bordeaux
-29,38,13,Marseille
-29,37,14,Lille
-29,36,15,Montpellier
-29,32,16,Reims
-29,32,17,Guingamp
-29,30,18,Gaz. Ajaccio
-29,23,19,Toulouse
-29,14,20,Troyes
-30,77,1,Paris SG
-30,52,2,Monaco
-30,47,3,Nice
-30,46,4,Lyon
-30,45,5,Rennes
-30,44,6,Nantes
-30,43,7,Caen
-30,42,8,St Etienne
-30,40,9,Lille
-30,39,10,Angers
-30,39,11,Bastia
-30,39,12,Lorient
-30,39,13,Marseille
-30,38,14,Bordeaux
-30,36,15,Montpellier
-30,35,16,Guingamp
-30,33,17,Reims
-30,33,18,Gaz. Ajaccio
-30,26,19,Toulouse
-30,14,20,Troyes
-31,77,1,Paris SG
-31,55,2,Monaco
-31,50,3,Nice
-31,49,4,Lyon
-31,48,5,Rennes
-31,46,6,Caen
-31,45,7,St Etienne
-31,44,8,Nantes
-31,43,9,Lille
-31,42,10,Angers
-31,40,11,Bastia
-31,39,12,Lorient
-31,39,13,Bordeaux
-31,39,14,Marseille
-31,38,15,Guingamp
-31,36,16,Montpellier
-31,33,17,Gaz. Ajaccio
-31,33,18,Reims
-31,26,19,Toulouse
-31,14,20,Troyes
-32,80,1,Paris SG
-32,55,2,Monaco
-32,52,3,Lyon
-32,51,4,Rennes
-32,50,5,Nice
-32,48,6,St Etienne
-32,46,7,Caen
-32,46,8,Lille
-32,45,9,Angers
-32,44,10,Nantes
-32,43,11,Bastia
-32,42,12,Bordeaux
-32,39,13,Lorient
-32,39,14,Guingamp
-32,39,15,Marseille
-32,37,16,Montpellier
-32,33,17,Gaz. Ajaccio
-32,33,18,Reims
-32,29,19,Toulouse
-32,14,20,Troyes
-33,83,1,Paris SG
-33,55,2,Monaco
-33,55,3,Lyon
-33,53,4,Nice
-33,51,5,Rennes
-33,51,6,St Etienne
-33,49,7,Lille
-33,46,8,Angers
-33,46,9,Caen
-33,44,10,Nantes
-33,43,11,Bastia
-33,43,12,Bordeaux
-33,42,13,Lorient
-33,40,14,Marseille
-33,39,15,Guingamp
-33,37,16,Montpellier
-33,36,17,Reims
-33,34,18,Gaz. Ajaccio
-33,32,19,Toulouse
-33,14,20,Troyes
-34,86,1,Paris SG
-34,58,2,Monaco
-34,56,3,Lyon
-34,54,4,Nice
-34,54,5,St Etienne
-34,52,6,Lille
-34,51,7,Rennes
-34,49,8,Angers
-34,46,9,Caen
-34,44,10,Nantes
-34,43,11,Bastia
-34,43,12,Lorient
-34,43,13,Bordeaux
-34,42,14,Guingamp
-34,40,15,Marseille
-34,40,16,Montpellier
-34,36,17,Reims
-34,34,18,Gaz. Ajaccio
-34,33,19,Toulouse
-34,17,20,Troyes
-35,87,1,Paris SG
-35,59,2,Monaco
-35,59,3,Lyon
-35,57,4,Nice
-35,57,5,St Etienne
-35,53,6,Lille
-35,52,7,Rennes
-35,50,8,Angers
-35,47,9,Caen
-35,45,10,Nantes
-35,44,11,Bordeaux
-35,43,12,Bastia
-35,43,13,Lorient
-35,43,14,Guingamp
-35,43,15,Montpellier
-35,41,16,Marseille
-35,37,17,Gaz. Ajaccio
-35,36,18,Reims
-35,33,19,Toulouse
-35,17,20,Troyes
-36,90,1,Paris SG
-36,62,2,Monaco
-36,62,3,Lyon
-36,58,4,St Etienne
-36,57,5,Nice
-36,56,6,Lille
-36,52,7,Rennes
-36,50,8,Angers
-36,48,9,Caen
-36,48,10,Nantes
-36,47,11,Bordeaux
-36,46,12,Montpellier
-36,44,13,Bastia
-36,44,14,Marseille
-36,43,15,Lorient
-36,43,16,Guingamp
-36,37,17,Gaz. Ajaccio
-36,36,18,Reims
-36,34,19,Toulouse
-36,17,20,Troyes
-37,93,1,Paris SG
-37,65,2,Lyon
-37,62,3,Monaco
-37,60,4,Nice
-37,58,5,St Etienne
-37,57,6,Lille
-37,52,7,Rennes
-37,51,8,Caen
-37,50,9,Angers
-37,50,10,Bordeaux
-37,49,11,Montpellier
-37,48,12,Nantes
-37,47,13,Bastia
-37,47,14,Marseille
-37,44,15,Guingamp
-37,43,16,Lorient
-37,37,17,Gaz. Ajaccio
-37,37,18,Toulouse
-37,36,19,Reims
-37,17,20,Troyes
-38,96,1,Paris SG
-38,65,2,Lyon
-38,65,3,Monaco
-38,63,4,Nice
-38,60,5,Lille
-38,58,6,St Etienne
-38,54,7,Caen
-38,52,8,Rennes
-38,50,9,Angers
-38,50,10,Bordeaux
-38,50,11,Bastia
-38,49,12,Montpellier
-38,48,13,Nantes
-38,48,14,Marseille
-38,46,15,Lorient
-38,44,16,Guingamp
-38,40,17,Toulouse
-38,39,18,Reims
-38,37,19,Gaz. Ajaccio
-38,18,20,Troyes
+0,0,1,Bourg-Péronn.
+0,0,2,Gaz. Ajaccio
+0,0,3,Nimes
+0,0,4,Sochaux
+0,0,5,Le Havre
+0,0,6,Brest
+0,0,7,Tours
+0,0,8,Troyes
+0,0,9,Strasbourg
+0,0,10,Reims
+0,0,11,AC Ajaccio
+0,0,12,Auxerre
+0,0,13,Amiens
+0,0,14,Laval
+0,0,15,Red Star
+0,0,16,Valenciennes
+0,0,17,Niort
+0,0,18,Lens
+0,0,19,Orléans
+0,0,20,Clermont F.
+1,3,1,Sochaux
+1,3,2,Le Havre
+1,3,3,Valenciennes
+1,1,4,Bourg-Péronn.
+1,1,5,Gaz. Ajaccio
+1,1,6,Nimes
+1,1,7,Brest
+1,1,8,Tours
+1,1,9,Strasbourg
+1,1,10,Reims
+1,1,11,AC Ajaccio
+1,1,12,Auxerre
+1,1,13,Amiens
+1,1,14,Laval
+1,1,15,Red Star
+1,1,16,Niort
+1,1,17,Lens
+1,0,18,Troyes
+1,0,19,Orléans
+1,0,20,Clermont F.
+2,6,1,Le Havre
+2,4,2,Sochaux
+2,4,3,Valenciennes
+2,4,4,Gaz. Ajaccio
+2,4,5,Brest
+2,4,6,Strasbourg
+2,4,7,Reims
+2,4,8,AC Ajaccio
+2,2,9,Tours
+2,2,10,Laval
+2,2,11,Red Star
+2,2,12,Niort
+2,2,13,Lens
+2,1,14,Bourg-Péronn.
+2,1,15,Nimes
+2,1,16,Auxerre
+2,1,17,Amiens
+2,1,18,Clermont F.
+2,0,19,Troyes
+2,0,20,Orléans
+3,7,1,Le Havre
+3,7,2,Sochaux
+3,7,3,Brest
+3,7,4,Strasbourg
+3,5,5,Gaz. Ajaccio
+3,5,6,Reims
+3,5,7,Valenciennes
+3,5,8,Lens
+3,4,9,AC Ajaccio
+3,4,10,Auxerre
+3,4,11,Amiens
+3,3,12,Troyes
+3,3,13,Orléans
+3,2,14,Tours
+3,2,15,Laval
+3,2,16,Red Star
+3,2,17,Niort
+3,1,18,Bourg-Péronn.
+3,1,19,Nimes
+3,1,20,Clermont F.
+4,10,1,Brest
+4,8,2,Sochaux
+4,8,3,Strasbourg
+4,8,4,Gaz. Ajaccio
+4,8,5,Reims
+4,7,6,Le Havre
+4,7,7,AC Ajaccio
+4,7,8,Amiens
+4,6,9,Troyes
+4,5,10,Valenciennes
+4,5,11,Lens
+4,5,12,Tours
+4,4,13,Auxerre
+4,4,14,Orléans
+4,4,15,Clermont F.
+4,2,16,Nimes
+4,2,17,Laval
+4,2,18,Red Star
+4,2,19,Niort
+4,1,20,Bourg-Péronn.
+5,11,1,Brest
+5,10,2,Amiens
+5,9,3,Gaz. Ajaccio
+5,9,4,Sochaux
+5,9,5,Strasbourg
+5,9,6,Reims
+5,8,7,Le Havre
+5,8,8,Valenciennes
+5,7,9,Troyes
+5,7,10,AC Ajaccio
+5,7,11,Clermont F.
+5,6,12,Tours
+5,6,13,Lens
+5,5,14,Auxerre
+5,5,15,Orléans
+5,3,16,Red Star
+5,3,17,Niort
+5,2,18,Bourg-Péronn.
+5,2,19,Nimes
+5,2,20,Laval
+6,13,1,Amiens
+6,12,2,Strasbourg
+6,12,3,Reims
+6,11,4,Brest
+6,10,5,Sochaux
+6,10,6,Clermont F.
+6,9,7,Gaz. Ajaccio
+6,9,8,Le Havre
+6,9,9,Valenciennes
+6,7,10,Troyes
+6,7,11,AC Ajaccio
+6,7,12,Lens
+6,6,13,Tours
+6,6,14,Auxerre
+6,6,15,Red Star
+6,5,16,Orléans
+6,5,17,Nimes
+6,5,18,Laval
+6,3,19,Bourg-Péronn.
+6,3,20,Niort
+7,14,1,Amiens
+7,14,2,Brest
+7,13,3,Reims
+7,12,4,Strasbourg
+7,11,5,Sochaux
+7,11,6,Clermont F.
+7,10,7,Gaz. Ajaccio
+7,10,8,Valenciennes
+7,9,9,Le Havre
+7,9,10,Red Star
+7,8,11,Troyes
+7,8,12,AC Ajaccio
+7,8,13,Lens
+7,8,14,Nimes
+7,8,15,Orléans
+7,6,16,Tours
+7,6,17,Auxerre
+7,6,18,Bourg-Péronn.
+7,5,19,Laval
+7,4,20,Niort
+8,16,1,Reims
+8,15,2,Brest
+8,15,3,Amiens
+8,13,4,Strasbourg
+8,12,5,Sochaux
+8,11,6,Gaz. Ajaccio
+8,11,7,Valenciennes
+8,11,8,Clermont F.
+8,11,9,AC Ajaccio
+8,11,10,Lens
+8,10,11,Le Havre
+8,10,12,Red Star
+8,9,13,Nimes
+8,9,14,Troyes
+8,9,15,Bourg-Péronn.
+8,8,16,Orléans
+8,6,17,Tours
+8,6,18,Auxerre
+8,6,19,Laval
+8,5,20,Niort
+9,18,1,Brest
+9,18,2,Amiens
+9,16,3,Reims
+9,15,4,Sochaux
+9,14,5,Strasbourg
+9,14,6,Lens
+9,13,7,Le Havre
+9,12,8,Clermont F.
+9,12,9,Nimes
+9,12,10,Troyes
+9,11,11,Gaz. Ajaccio
+9,11,12,AC Ajaccio
+9,11,13,Valenciennes
+9,10,14,Bourg-Péronn.
+9,10,15,Red Star
+9,8,16,Orléans
+9,8,17,Niort
+9,7,18,Laval
+9,6,19,Tours
+9,6,20,Auxerre
+10,19,1,Brest
+10,19,2,Reims
+10,18,3,Amiens
+10,17,4,Lens
+10,16,5,Le Havre
+10,15,6,Sochaux
+10,15,7,Troyes
+10,14,8,Strasbourg
+10,14,9,Gaz. Ajaccio
+10,14,10,Valenciennes
+10,13,11,Nimes
+10,13,12,Clermont F.
+10,12,13,AC Ajaccio
+10,11,14,Bourg-Péronn.
+10,11,15,Niort
+10,10,16,Red Star
+10,8,17,Laval
+10,8,18,Orléans
+10,6,19,Tours
+10,6,20,Auxerre
+11,22,1,Brest
+11,21,2,Amiens
+11,19,3,Reims
+11,19,4,Le Havre
+11,18,5,Sochaux
+11,18,6,Troyes
+11,17,7,Lens
+11,17,8,Valenciennes
+11,15,9,AC Ajaccio
+11,14,10,Gaz. Ajaccio
+11,14,11,Nimes
+11,14,12,Strasbourg
+11,13,13,Clermont F.
+11,11,14,Bourg-Péronn.
+11,11,15,Red Star
+11,11,16,Niort
+11,9,17,Orléans
+11,9,18,Auxerre
+11,8,19,Laval
+11,7,20,Tours
+12,25,1,Brest
+12,22,2,Amiens
+12,22,3,Le Havre
+12,21,4,Troyes
+12,20,5,Reims
+12,19,6,Sochaux
+12,18,7,Lens
+12,17,8,Valenciennes
+12,17,9,Gaz. Ajaccio
+12,17,10,Strasbourg
+12,15,11,Nimes
+12,15,12,AC Ajaccio
+12,14,13,Niort
+12,13,14,Clermont F.
+12,12,15,Red Star
+12,11,16,Bourg-Péronn.
+12,10,17,Tours
+12,9,18,Auxerre
+12,9,19,Orléans
+12,8,20,Laval
+13,25,1,Brest
+13,23,2,Reims
+13,22,3,Le Havre
+13,22,4,Troyes
+13,22,5,Amiens
+13,21,6,Lens
+13,20,7,Strasbourg
+13,19,8,Sochaux
+13,18,9,Nimes
+13,17,10,Gaz. Ajaccio
+13,17,11,Valenciennes
+13,17,12,Niort
+13,16,13,Clermont F.
+13,15,14,AC Ajaccio
+13,15,15,Red Star
+13,14,16,Bourg-Péronn.
+13,11,17,Laval
+13,10,18,Tours
+13,10,19,Orléans
+13,9,20,Auxerre
+14,28,1,Brest
+14,26,2,Reims
+14,25,3,Le Havre
+14,25,4,Troyes
+14,23,5,Amiens
+14,22,6,Lens
+14,20,7,Strasbourg
+14,20,8,Gaz. Ajaccio
+14,20,9,Niort
+14,19,10,Nimes
+14,19,11,Sochaux
+14,17,12,Valenciennes
+14,17,13,Clermont F.
+14,16,14,AC Ajaccio
+14,15,15,Bourg-Péronn.
+14,15,16,Red Star
+14,11,17,Laval
+14,11,18,Orléans
+14,10,19,Tours
+14,10,20,Auxerre
+15,28,1,Brest
+15,28,2,Troyes
+15,26,3,Le Havre
+15,26,4,Reims
+15,24,5,Amiens
+15,23,6,Lens
+15,23,7,Niort
+15,22,8,Sochaux
+15,20,9,Gaz. Ajaccio
+15,20,10,Strasbourg
+15,20,11,Clermont F.
+15,19,12,Nimes
+15,19,13,AC Ajaccio
+15,18,14,Valenciennes
+15,16,15,Bourg-Péronn.
+15,15,16,Red Star
+15,14,17,Laval
+15,14,18,Orléans
+15,11,19,Auxerre
+15,10,20,Tours
+16,31,1,Troyes
+16,28,2,Brest
+16,27,3,Amiens
+16,26,4,Le Havre
+16,26,5,Reims
+16,26,6,Lens
+16,25,7,Sochaux
+16,24,8,Niort
+16,23,9,Strasbourg
+16,22,10,Nimes
+16,21,11,Valenciennes
+16,20,12,Gaz. Ajaccio
+16,20,13,AC Ajaccio
+16,20,14,Clermont F.
+16,19,15,Bourg-Péronn.
+16,15,16,Red Star
+16,14,17,Laval
+16,14,18,Orléans
+16,13,19,Tours
+16,11,20,Auxerre
+17,31,1,Troyes
+17,31,2,Brest
+17,29,3,Reims
+17,29,4,Lens
+17,28,5,Amiens
+17,26,6,Sochaux
+17,26,7,Le Havre
+17,26,8,Strasbourg
+17,24,9,Niort
+17,22,10,Nimes
+17,22,11,Valenciennes
+17,21,12,Gaz. Ajaccio
+17,21,13,AC Ajaccio
+17,21,14,Clermont F.
+17,20,15,Bourg-Péronn.
+17,18,16,Red Star
+17,14,17,Tours
+17,14,18,Laval
+17,14,19,Orléans
+17,14,20,Auxerre
+18,34,1,Brest
+18,32,2,Troyes
+18,30,3,Reims
+18,29,4,Lens
+18,29,5,Sochaux
+18,29,6,Strasbourg
+18,28,7,Amiens
+18,27,8,Le Havre
+18,25,9,Niort
+18,24,10,Gaz. Ajaccio
+18,23,11,Valenciennes
+18,22,12,Nimes
+18,22,13,Clermont F.
+18,21,14,Bourg-Péronn.
+18,21,15,AC Ajaccio
+18,19,16,Red Star
+18,15,17,Tours
+18,15,18,Auxerre
+18,15,19,Laval
+18,15,20,Orléans
+19,35,1,Brest
+19,33,2,Reims
+19,32,3,Troyes
+19,32,4,Sochaux
+19,32,5,Strasbourg
+19,32,6,Lens
+19,29,7,Amiens
+19,27,8,Le Havre
+19,25,9,Niort
+19,25,10,Nimes
+19,25,11,Clermont F.
+19,24,12,Gaz. Ajaccio
+19,24,13,Valenciennes
+19,22,14,Bourg-Péronn.
+19,21,15,AC Ajaccio
+19,19,16,Red Star
+19,18,17,Tours
+19,16,18,Auxerre
+19,16,19,Laval
+19,15,20,Orléans
+20,38,1,Brest
+20,35,2,Lens
+20,33,3,Reims
+20,32,4,Sochaux
+20,32,5,Troyes
+20,32,6,Strasbourg
+20,32,7,Amiens
+20,28,8,Le Havre
+20,28,9,Clermont F.
+20,27,10,Gaz. Ajaccio
+20,27,11,Valenciennes
+20,26,12,Nimes
+20,26,13,Niort
+20,25,14,Bourg-Péronn.
+20,24,15,AC Ajaccio
+20,19,16,Red Star
+20,18,17,Tours
+20,17,18,Laval
+20,16,19,Auxerre
+20,15,20,Orléans
+21,38,1,Brest
+21,35,2,Lens
+21,34,3,Reims
+21,33,4,Sochaux
+21,32,5,Troyes
+21,32,6,Strasbourg
+21,32,7,Amiens
+21,30,8,Gaz. Ajaccio
+21,29,9,Clermont F.
+21,29,10,Nimes
+21,29,11,Niort
+21,28,12,Le Havre
+21,28,13,Valenciennes
+21,28,14,Bourg-Péronn.
+21,27,15,AC Ajaccio
+21,22,16,Red Star
+21,20,17,Laval
+21,18,18,Tours
+21,16,19,Auxerre
+21,15,20,Orléans
+22,41,1,Brest
+22,35,2,Lens
+22,35,3,Troyes
+22,35,4,Amiens
+22,34,5,Reims
+22,33,6,Sochaux
+22,33,7,Strasbourg
+22,31,8,Gaz. Ajaccio
+22,31,9,Bourg-Péronn.
+22,30,10,Nimes
+22,30,11,Niort
+22,29,12,Clermont F.
+22,28,13,Le Havre
+22,28,14,Valenciennes
+22,27,15,AC Ajaccio
+22,22,16,Red Star
+22,21,17,Laval
+22,19,18,Tours
+22,19,19,Auxerre
+22,18,20,Orléans
+23,41,1,Brest
+23,35,2,Troyes
+23,35,3,Amiens
+23,35,4,Lens
+23,34,5,Reims
+23,33,6,Sochaux
+23,33,7,Strasbourg
+23,31,8,Bourg-Péronn.
+23,31,9,Gaz. Ajaccio
+23,30,10,Nimes
+23,30,11,Niort
+23,29,12,Clermont F.
+23,28,13,Le Havre
+23,28,14,Valenciennes
+23,27,15,AC Ajaccio
+23,22,16,Red Star
+23,21,17,Laval
+23,19,18,Tours
+23,19,19,Auxerre
+23,18,20,Orléans
+24,41,1,Brest
+24,35,2,Troyes
+24,35,3,Amiens
+24,35,4,Lens
+24,34,5,Reims
+24,33,6,Sochaux
+24,33,7,Strasbourg
+24,31,8,Bourg-Péronn.
+24,31,9,Gaz. Ajaccio
+24,30,10,Nimes
+24,30,11,Niort
+24,29,12,Clermont F.
+24,28,13,Le Havre
+24,28,14,Valenciennes
+24,27,15,AC Ajaccio
+24,22,16,Red Star
+24,21,17,Laval
+24,19,18,Tours
+24,19,19,Auxerre
+24,18,20,Orléans
+25,41,1,Brest
+25,35,2,Troyes
+25,35,3,Amiens
+25,35,4,Lens
+25,34,5,Reims
+25,33,6,Sochaux
+25,33,7,Strasbourg
+25,31,8,Bourg-Péronn.
+25,31,9,Gaz. Ajaccio
+25,30,10,Nimes
+25,30,11,Niort
+25,29,12,Clermont F.
+25,28,13,Le Havre
+25,28,14,Valenciennes
+25,27,15,AC Ajaccio
+25,22,16,Red Star
+25,21,17,Laval
+25,19,18,Tours
+25,19,19,Auxerre
+25,18,20,Orléans
+26,41,1,Brest
+26,35,2,Troyes
+26,35,3,Amiens
+26,35,4,Lens
+26,34,5,Reims
+26,33,6,Sochaux
+26,33,7,Strasbourg
+26,31,8,Bourg-Péronn.
+26,31,9,Gaz. Ajaccio
+26,30,10,Nimes
+26,30,11,Niort
+26,29,12,Clermont F.
+26,28,13,Le Havre
+26,28,14,Valenciennes
+26,27,15,AC Ajaccio
+26,22,16,Red Star
+26,21,17,Laval
+26,19,18,Tours
+26,19,19,Auxerre
+26,18,20,Orléans
+27,41,1,Brest
+27,35,2,Troyes
+27,35,3,Amiens
+27,35,4,Lens
+27,34,5,Reims
+27,33,6,Sochaux
+27,33,7,Strasbourg
+27,31,8,Bourg-Péronn.
+27,31,9,Gaz. Ajaccio
+27,30,10,Nimes
+27,30,11,Niort
+27,29,12,Clermont F.
+27,28,13,Le Havre
+27,28,14,Valenciennes
+27,27,15,AC Ajaccio
+27,22,16,Red Star
+27,21,17,Laval
+27,19,18,Tours
+27,19,19,Auxerre
+27,18,20,Orléans
+28,41,1,Brest
+28,35,2,Troyes
+28,35,3,Amiens
+28,35,4,Lens
+28,34,5,Reims
+28,33,6,Sochaux
+28,33,7,Strasbourg
+28,31,8,Bourg-Péronn.
+28,31,9,Gaz. Ajaccio
+28,30,10,Nimes
+28,30,11,Niort
+28,29,12,Clermont F.
+28,28,13,Le Havre
+28,28,14,Valenciennes
+28,27,15,AC Ajaccio
+28,22,16,Red Star
+28,21,17,Laval
+28,19,18,Tours
+28,19,19,Auxerre
+28,18,20,Orléans
+29,41,1,Brest
+29,35,2,Troyes
+29,35,3,Amiens
+29,35,4,Lens
+29,34,5,Reims
+29,33,6,Sochaux
+29,33,7,Strasbourg
+29,31,8,Bourg-Péronn.
+29,31,9,Gaz. Ajaccio
+29,30,10,Nimes
+29,30,11,Niort
+29,29,12,Clermont F.
+29,28,13,Le Havre
+29,28,14,Valenciennes
+29,27,15,AC Ajaccio
+29,22,16,Red Star
+29,21,17,Laval
+29,19,18,Tours
+29,19,19,Auxerre
+29,18,20,Orléans
+30,41,1,Brest
+30,35,2,Troyes
+30,35,3,Amiens
+30,35,4,Lens
+30,34,5,Reims
+30,33,6,Sochaux
+30,33,7,Strasbourg
+30,31,8,Bourg-Péronn.
+30,31,9,Gaz. Ajaccio
+30,30,10,Nimes
+30,30,11,Niort
+30,29,12,Clermont F.
+30,28,13,Le Havre
+30,28,14,Valenciennes
+30,27,15,AC Ajaccio
+30,22,16,Red Star
+30,21,17,Laval
+30,19,18,Tours
+30,19,19,Auxerre
+30,18,20,Orléans
+31,41,1,Brest
+31,35,2,Troyes
+31,35,3,Amiens
+31,35,4,Lens
+31,34,5,Reims
+31,33,6,Sochaux
+31,33,7,Strasbourg
+31,31,8,Bourg-Péronn.
+31,31,9,Gaz. Ajaccio
+31,30,10,Nimes
+31,30,11,Niort
+31,29,12,Clermont F.
+31,28,13,Le Havre
+31,28,14,Valenciennes
+31,27,15,AC Ajaccio
+31,22,16,Red Star
+31,21,17,Laval
+31,19,18,Tours
+31,19,19,Auxerre
+31,18,20,Orléans
+32,41,1,Brest
+32,35,2,Troyes
+32,35,3,Amiens
+32,35,4,Lens
+32,34,5,Reims
+32,33,6,Sochaux
+32,33,7,Strasbourg
+32,31,8,Bourg-Péronn.
+32,31,9,Gaz. Ajaccio
+32,30,10,Nimes
+32,30,11,Niort
+32,29,12,Clermont F.
+32,28,13,Le Havre
+32,28,14,Valenciennes
+32,27,15,AC Ajaccio
+32,22,16,Red Star
+32,21,17,Laval
+32,19,18,Tours
+32,19,19,Auxerre
+32,18,20,Orléans
+33,41,1,Brest
+33,35,2,Troyes
+33,35,3,Amiens
+33,35,4,Lens
+33,34,5,Reims
+33,33,6,Sochaux
+33,33,7,Strasbourg
+33,31,8,Bourg-Péronn.
+33,31,9,Gaz. Ajaccio
+33,30,10,Nimes
+33,30,11,Niort
+33,29,12,Clermont F.
+33,28,13,Le Havre
+33,28,14,Valenciennes
+33,27,15,AC Ajaccio
+33,22,16,Red Star
+33,21,17,Laval
+33,19,18,Tours
+33,19,19,Auxerre
+33,18,20,Orléans
+34,41,1,Brest
+34,35,2,Troyes
+34,35,3,Amiens
+34,35,4,Lens
+34,34,5,Reims
+34,33,6,Sochaux
+34,33,7,Strasbourg
+34,31,8,Bourg-Péronn.
+34,31,9,Gaz. Ajaccio
+34,30,10,Nimes
+34,30,11,Niort
+34,29,12,Clermont F.
+34,28,13,Le Havre
+34,28,14,Valenciennes
+34,27,15,AC Ajaccio
+34,22,16,Red Star
+34,21,17,Laval
+34,19,18,Tours
+34,19,19,Auxerre
+34,18,20,Orléans
+35,41,1,Brest
+35,35,2,Troyes
+35,35,3,Amiens
+35,35,4,Lens
+35,34,5,Reims
+35,33,6,Sochaux
+35,33,7,Strasbourg
+35,31,8,Bourg-Péronn.
+35,31,9,Gaz. Ajaccio
+35,30,10,Nimes
+35,30,11,Niort
+35,29,12,Clermont F.
+35,28,13,Le Havre
+35,28,14,Valenciennes
+35,27,15,AC Ajaccio
+35,22,16,Red Star
+35,21,17,Laval
+35,19,18,Tours
+35,19,19,Auxerre
+35,18,20,Orléans
+36,41,1,Brest
+36,35,2,Troyes
+36,35,3,Amiens
+36,35,4,Lens
+36,34,5,Reims
+36,33,6,Sochaux
+36,33,7,Strasbourg
+36,31,8,Bourg-Péronn.
+36,31,9,Gaz. Ajaccio
+36,30,10,Nimes
+36,30,11,Niort
+36,29,12,Clermont F.
+36,28,13,Le Havre
+36,28,14,Valenciennes
+36,27,15,AC Ajaccio
+36,22,16,Red Star
+36,21,17,Laval
+36,19,18,Tours
+36,19,19,Auxerre
+36,18,20,Orléans
+37,41,1,Brest
+37,35,2,Troyes
+37,35,3,Amiens
+37,35,4,Lens
+37,34,5,Reims
+37,33,6,Sochaux
+37,33,7,Strasbourg
+37,31,8,Bourg-Péronn.
+37,31,9,Gaz. Ajaccio
+37,30,10,Nimes
+37,30,11,Niort
+37,29,12,Clermont F.
+37,28,13,Le Havre
+37,28,14,Valenciennes
+37,27,15,AC Ajaccio
+37,22,16,Red Star
+37,21,17,Laval
+37,19,18,Tours
+37,19,19,Auxerre
+37,18,20,Orléans
+38,41,1,Brest
+38,35,2,Troyes
+38,35,3,Amiens
+38,35,4,Lens
+38,34,5,Reims
+38,33,6,Sochaux
+38,33,7,Strasbourg
+38,31,8,Bourg-Péronn.
+38,31,9,Gaz. Ajaccio
+38,30,10,Nimes
+38,30,11,Niort
+38,29,12,Clermont F.
+38,28,13,Le Havre
+38,28,14,Valenciennes
+38,27,15,AC Ajaccio
+38,22,16,Red Star
+38,21,17,Laval
+38,19,18,Tours
+38,19,19,Auxerre
+38,18,20,Orléans
