@@ -1,3 +1,10 @@
+#!/usr/bin/env python3.5
+
+"""
+@author: rvuillemot
+@contributor: brthao
+"""
+
 from threading import Thread
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
@@ -11,8 +18,6 @@ import time
 
 
 class AutoScrapp(Thread):
-	
-	
 	
 	def __init__(self,url):
 		Thread.__init__(self)
@@ -131,15 +136,15 @@ class AutoScrapp(Thread):
 		df.to_json(orient='records')
 		df.to_csv(header=True, columns=["day", "pts", "rank", "team"], sep=',', index=False)
 		
-		#with open('ranking-predictions/soccer_ligue1.json', 'w') as fp:
-		#    fp.write(df.to_json(orient='records'))
+		with open('../viz/data/soccer_ligue1.json', 'w') as fp:
+		    fp.write(df.to_json(orient='records'))
+		    
 		with open('../viz/data/soccer_ligue1.csv', 'w') as fp:
 			fp.write(df.to_csv(header=True, columns=["day", "pts", "rank", "team"], sep=',', index=False))
 			print("File saved!")
    	
 		
 	def run(self):
-		print(self.url)
 		schedule.every(1).hour.do(self.scrapping)
 		while True:
 			schedule.run_pending()

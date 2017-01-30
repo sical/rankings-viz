@@ -1,13 +1,12 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 17 20:51:53 2016
+#!/usr/bin/env python3.5
 
-@author: rvuillemot
+"""
+@author: brthao
 """
 
+import os, sys
 
-from autoscrapp import AutoScrapp
+from src.model.autoscrapp import AutoScrapp
 from flask import Flask
 
 
