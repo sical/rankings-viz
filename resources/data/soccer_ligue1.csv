@@ -1,89 +1,89 @@
 day,pts,rank,team
-0,0,1,Bourg-Péronn.
-0,0,2,Gaz. Ajaccio
-0,0,3,Nimes
-0,0,4,Sochaux
-0,0,5,Le Havre
-0,0,6,Brest
-0,0,7,Tours
-0,0,8,Troyes
-0,0,9,Strasbourg
-0,0,10,Reims
-0,0,11,AC Ajaccio
+0,0,1,Tours
+0,0,2,Orléans
+0,0,3,Troyes
+0,0,4,Brest
+0,0,5,Strasbourg
+0,0,6,Bourg-Péronn.
+0,0,7,AC Ajaccio
+0,0,8,Clermont F.
+0,0,9,Reims
+0,0,10,Sochaux
+0,0,11,Niort
 0,0,12,Auxerre
 0,0,13,Amiens
-0,0,14,Laval
+0,0,14,Le Havre
 0,0,15,Red Star
-0,0,16,Valenciennes
-0,0,17,Niort
-0,0,18,Lens
-0,0,19,Orléans
-0,0,20,Clermont F.
+0,0,16,Nimes
+0,0,17,Valenciennes
+0,0,18,Laval
+0,0,19,Lens
+0,0,20,Gaz. Ajaccio
 1,3,1,Sochaux
 1,3,2,Le Havre
 1,3,3,Valenciennes
-1,1,4,Bourg-Péronn.
-1,1,5,Gaz. Ajaccio
-1,1,6,Nimes
-1,1,7,Brest
-1,1,8,Tours
-1,1,9,Strasbourg
-1,1,10,Reims
-1,1,11,AC Ajaccio
-1,1,12,Auxerre
-1,1,13,Amiens
-1,1,14,Laval
-1,1,15,Red Star
-1,1,16,Niort
-1,1,17,Lens
-1,0,18,Troyes
-1,0,19,Orléans
+1,1,4,Tours
+1,1,5,Brest
+1,1,6,Strasbourg
+1,1,7,Bourg-Péronn.
+1,1,8,AC Ajaccio
+1,1,9,Reims
+1,1,10,Niort
+1,1,11,Auxerre
+1,1,12,Amiens
+1,1,13,Red Star
+1,1,14,Nimes
+1,1,15,Laval
+1,1,16,Lens
+1,1,17,Gaz. Ajaccio
+1,0,18,Orléans
+1,0,19,Troyes
 1,0,20,Clermont F.
 2,6,1,Le Havre
 2,4,2,Sochaux
 2,4,3,Valenciennes
-2,4,4,Gaz. Ajaccio
-2,4,5,Brest
-2,4,6,Strasbourg
+2,4,4,Brest
+2,4,5,Strasbourg
+2,4,6,AC Ajaccio
 2,4,7,Reims
-2,4,8,AC Ajaccio
+2,4,8,Gaz. Ajaccio
 2,2,9,Tours
-2,2,10,Laval
+2,2,10,Niort
 2,2,11,Red Star
-2,2,12,Niort
+2,2,12,Laval
 2,2,13,Lens
 2,1,14,Bourg-Péronn.
-2,1,15,Nimes
+2,1,15,Clermont F.
 2,1,16,Auxerre
 2,1,17,Amiens
-2,1,18,Clermont F.
-2,0,19,Troyes
-2,0,20,Orléans
+2,1,18,Nimes
+2,0,19,Orléans
+2,0,20,Troyes
 3,7,1,Le Havre
-3,7,2,Sochaux
-3,7,3,Brest
-3,7,4,Strasbourg
-3,5,5,Gaz. Ajaccio
-3,5,6,Reims
-3,5,7,Valenciennes
+3,7,2,Brest
+3,7,3,Strasbourg
+3,7,4,Sochaux
+3,5,5,Reims
+3,5,6,Valenciennes
+3,5,7,Gaz. Ajaccio
 3,5,8,Lens
 3,4,9,AC Ajaccio
 3,4,10,Auxerre
 3,4,11,Amiens
-3,3,12,Troyes
-3,3,13,Orléans
+3,3,12,Orléans
+3,3,13,Troyes
 3,2,14,Tours
-3,2,15,Laval
+3,2,15,Niort
 3,2,16,Red Star
-3,2,17,Niort
+3,2,17,Laval
 3,1,18,Bourg-Péronn.
-3,1,19,Nimes
-3,1,20,Clermont F.
+3,1,19,Clermont F.
+3,1,20,Nimes
 4,10,1,Brest
-4,8,2,Sochaux
-4,8,3,Strasbourg
-4,8,4,Gaz. Ajaccio
-4,8,5,Reims
+4,8,2,Strasbourg
+4,8,3,Sochaux
+4,8,4,Reims
+4,8,5,Gaz. Ajaccio
 4,7,6,Le Havre
 4,7,7,AC Ajaccio
 4,7,8,Amiens
@@ -91,20 +91,20 @@ day,pts,rank,team
 4,5,10,Valenciennes
 4,5,11,Lens
 4,5,12,Tours
-4,4,13,Auxerre
-4,4,14,Orléans
+4,4,13,Orléans
+4,4,14,Auxerre
 4,4,15,Clermont F.
-4,2,16,Nimes
-4,2,17,Laval
-4,2,18,Red Star
-4,2,19,Niort
+4,2,16,Niort
+4,2,17,Red Star
+4,2,18,Nimes
+4,2,19,Laval
 4,1,20,Bourg-Péronn.
 5,11,1,Brest
 5,10,2,Amiens
-5,9,3,Gaz. Ajaccio
-5,9,4,Sochaux
-5,9,5,Strasbourg
-5,9,6,Reims
+5,9,3,Strasbourg
+5,9,4,Reims
+5,9,5,Sochaux
+5,9,6,Gaz. Ajaccio
 5,8,7,Le Havre
 5,8,8,Valenciennes
 5,7,9,Troyes
@@ -112,10 +112,10 @@ day,pts,rank,team
 5,7,11,Clermont F.
 5,6,12,Tours
 5,6,13,Lens
-5,5,14,Auxerre
-5,5,15,Orléans
-5,3,16,Red Star
-5,3,17,Niort
+5,5,14,Orléans
+5,5,15,Auxerre
+5,3,16,Niort
+5,3,17,Red Star
 5,2,18,Bourg-Péronn.
 5,2,19,Nimes
 5,2,20,Laval
@@ -125,9 +125,9 @@ day,pts,rank,team
 6,11,4,Brest
 6,10,5,Sochaux
 6,10,6,Clermont F.
-6,9,7,Gaz. Ajaccio
-6,9,8,Le Havre
-6,9,9,Valenciennes
+6,9,7,Le Havre
+6,9,8,Valenciennes
+6,9,9,Gaz. Ajaccio
 6,7,10,Troyes
 6,7,11,AC Ajaccio
 6,7,12,Lens
@@ -143,17 +143,17 @@ day,pts,rank,team
 7,14,2,Brest
 7,13,3,Reims
 7,12,4,Strasbourg
-7,11,5,Sochaux
-7,11,6,Clermont F.
-7,10,7,Gaz. Ajaccio
-7,10,8,Valenciennes
+7,11,5,Clermont F.
+7,11,6,Sochaux
+7,10,7,Valenciennes
+7,10,8,Gaz. Ajaccio
 7,9,9,Le Havre
 7,9,10,Red Star
 7,8,11,Troyes
 7,8,12,AC Ajaccio
 7,8,13,Lens
-7,8,14,Nimes
-7,8,15,Orléans
+7,8,14,Orléans
+7,8,15,Nimes
 7,6,16,Tours
 7,6,17,Auxerre
 7,6,18,Bourg-Péronn.
@@ -164,15 +164,15 @@ day,pts,rank,team
 8,15,3,Amiens
 8,13,4,Strasbourg
 8,12,5,Sochaux
-8,11,6,Gaz. Ajaccio
+8,11,6,Clermont F.
 8,11,7,Valenciennes
-8,11,8,Clermont F.
+8,11,8,Gaz. Ajaccio
 8,11,9,AC Ajaccio
 8,11,10,Lens
 8,10,11,Le Havre
 8,10,12,Red Star
-8,9,13,Nimes
-8,9,14,Troyes
+8,9,13,Troyes
+8,9,14,Nimes
 8,9,15,Bourg-Péronn.
 8,8,16,Orléans
 8,6,17,Tours
@@ -187,11 +187,11 @@ day,pts,rank,team
 9,14,6,Lens
 9,13,7,Le Havre
 9,12,8,Clermont F.
-9,12,9,Nimes
-9,12,10,Troyes
-9,11,11,Gaz. Ajaccio
-9,11,12,AC Ajaccio
-9,11,13,Valenciennes
+9,12,9,Troyes
+9,12,10,Nimes
+9,11,11,AC Ajaccio
+9,11,12,Valenciennes
+9,11,13,Gaz. Ajaccio
 9,10,14,Bourg-Péronn.
 9,10,15,Red Star
 9,8,16,Orléans
@@ -207,34 +207,34 @@ day,pts,rank,team
 10,15,6,Sochaux
 10,15,7,Troyes
 10,14,8,Strasbourg
-10,14,9,Gaz. Ajaccio
-10,14,10,Valenciennes
-10,13,11,Nimes
-10,13,12,Clermont F.
+10,14,9,Valenciennes
+10,14,10,Gaz. Ajaccio
+10,13,11,Clermont F.
+10,13,12,Nimes
 10,12,13,AC Ajaccio
 10,11,14,Bourg-Péronn.
 10,11,15,Niort
 10,10,16,Red Star
-10,8,17,Laval
-10,8,18,Orléans
+10,8,17,Orléans
+10,8,18,Laval
 10,6,19,Tours
 10,6,20,Auxerre
 11,22,1,Brest
 11,21,2,Amiens
 11,19,3,Reims
 11,19,4,Le Havre
-11,18,5,Sochaux
-11,18,6,Troyes
+11,18,5,Troyes
+11,18,6,Sochaux
 11,17,7,Lens
 11,17,8,Valenciennes
 11,15,9,AC Ajaccio
-11,14,10,Gaz. Ajaccio
+11,14,10,Strasbourg
 11,14,11,Nimes
-11,14,12,Strasbourg
+11,14,12,Gaz. Ajaccio
 11,13,13,Clermont F.
 11,11,14,Bourg-Péronn.
-11,11,15,Red Star
-11,11,16,Niort
+11,11,15,Niort
+11,11,16,Red Star
 11,9,17,Orléans
 11,9,18,Auxerre
 11,8,19,Laval
@@ -247,29 +247,29 @@ day,pts,rank,team
 12,19,6,Sochaux
 12,18,7,Lens
 12,17,8,Valenciennes
-12,17,9,Gaz. Ajaccio
-12,17,10,Strasbourg
-12,15,11,Nimes
-12,15,12,AC Ajaccio
+12,17,9,Strasbourg
+12,17,10,Gaz. Ajaccio
+12,15,11,AC Ajaccio
+12,15,12,Nimes
 12,14,13,Niort
 12,13,14,Clermont F.
 12,12,15,Red Star
 12,11,16,Bourg-Péronn.
 12,10,17,Tours
-12,9,18,Auxerre
-12,9,19,Orléans
+12,9,18,Orléans
+12,9,19,Auxerre
 12,8,20,Laval
 13,25,1,Brest
 13,23,2,Reims
-13,22,3,Le Havre
-13,22,4,Troyes
-13,22,5,Amiens
+13,22,3,Troyes
+13,22,4,Amiens
+13,22,5,Le Havre
 13,21,6,Lens
 13,20,7,Strasbourg
 13,19,8,Sochaux
 13,18,9,Nimes
-13,17,10,Gaz. Ajaccio
-13,17,11,Valenciennes
+13,17,10,Valenciennes
+13,17,11,Gaz. Ajaccio
 13,17,12,Niort
 13,16,13,Clermont F.
 13,15,14,AC Ajaccio
@@ -281,62 +281,62 @@ day,pts,rank,team
 13,9,20,Auxerre
 14,28,1,Brest
 14,26,2,Reims
-14,25,3,Le Havre
-14,25,4,Troyes
+14,25,3,Troyes
+14,25,4,Le Havre
 14,23,5,Amiens
 14,22,6,Lens
 14,20,7,Strasbourg
-14,20,8,Gaz. Ajaccio
-14,20,9,Niort
-14,19,10,Nimes
-14,19,11,Sochaux
-14,17,12,Valenciennes
-14,17,13,Clermont F.
+14,20,8,Niort
+14,20,9,Gaz. Ajaccio
+14,19,10,Sochaux
+14,19,11,Nimes
+14,17,12,Clermont F.
+14,17,13,Valenciennes
 14,16,14,AC Ajaccio
 14,15,15,Bourg-Péronn.
 14,15,16,Red Star
-14,11,17,Laval
-14,11,18,Orléans
+14,11,17,Orléans
+14,11,18,Laval
 14,10,19,Tours
 14,10,20,Auxerre
 15,28,1,Brest
 15,28,2,Troyes
-15,26,3,Le Havre
-15,26,4,Reims
+15,26,3,Reims
+15,26,4,Le Havre
 15,24,5,Amiens
 15,23,6,Lens
 15,23,7,Niort
 15,22,8,Sochaux
-15,20,9,Gaz. Ajaccio
-15,20,10,Strasbourg
+15,20,9,Strasbourg
+15,20,10,Gaz. Ajaccio
 15,20,11,Clermont F.
 15,19,12,Nimes
 15,19,13,AC Ajaccio
 15,18,14,Valenciennes
 15,16,15,Bourg-Péronn.
 15,15,16,Red Star
-15,14,17,Laval
-15,14,18,Orléans
+15,14,17,Orléans
+15,14,18,Laval
 15,11,19,Auxerre
 15,10,20,Tours
 16,31,1,Troyes
 16,28,2,Brest
 16,27,3,Amiens
-16,26,4,Le Havre
-16,26,5,Reims
+16,26,4,Reims
+16,26,5,Le Havre
 16,26,6,Lens
 16,25,7,Sochaux
 16,24,8,Niort
 16,23,9,Strasbourg
 16,22,10,Nimes
 16,21,11,Valenciennes
-16,20,12,Gaz. Ajaccio
-16,20,13,AC Ajaccio
-16,20,14,Clermont F.
+16,20,12,AC Ajaccio
+16,20,13,Clermont F.
+16,20,14,Gaz. Ajaccio
 16,19,15,Bourg-Péronn.
 16,15,16,Red Star
-16,14,17,Laval
-16,14,18,Orléans
+16,14,17,Orléans
+16,14,18,Laval
 16,13,19,Tours
 16,11,20,Auxerre
 17,31,1,Troyes
@@ -350,48 +350,48 @@ day,pts,rank,team
 17,24,9,Niort
 17,22,10,Nimes
 17,22,11,Valenciennes
-17,21,12,Gaz. Ajaccio
-17,21,13,AC Ajaccio
-17,21,14,Clermont F.
+17,21,12,AC Ajaccio
+17,21,13,Clermont F.
+17,21,14,Gaz. Ajaccio
 17,20,15,Bourg-Péronn.
 17,18,16,Red Star
 17,14,17,Tours
-17,14,18,Laval
-17,14,19,Orléans
+17,14,18,Orléans
+17,14,19,Laval
 17,14,20,Auxerre
 18,34,1,Brest
 18,32,2,Troyes
 18,30,3,Reims
 18,29,4,Lens
-18,29,5,Sochaux
-18,29,6,Strasbourg
+18,29,5,Strasbourg
+18,29,6,Sochaux
 18,28,7,Amiens
 18,27,8,Le Havre
 18,25,9,Niort
 18,24,10,Gaz. Ajaccio
 18,23,11,Valenciennes
-18,22,12,Nimes
-18,22,13,Clermont F.
+18,22,12,Clermont F.
+18,22,13,Nimes
 18,21,14,Bourg-Péronn.
 18,21,15,AC Ajaccio
 18,19,16,Red Star
 18,15,17,Tours
-18,15,18,Auxerre
-18,15,19,Laval
-18,15,20,Orléans
+18,15,18,Orléans
+18,15,19,Auxerre
+18,15,20,Laval
 19,35,1,Brest
 19,33,2,Reims
 19,32,3,Troyes
-19,32,4,Sochaux
-19,32,5,Strasbourg
+19,32,4,Strasbourg
+19,32,5,Sochaux
 19,32,6,Lens
 19,29,7,Amiens
 19,27,8,Le Havre
 19,25,9,Niort
-19,25,10,Nimes
-19,25,11,Clermont F.
-19,24,12,Gaz. Ajaccio
-19,24,13,Valenciennes
+19,25,10,Clermont F.
+19,25,11,Nimes
+19,24,12,Valenciennes
+19,24,13,Gaz. Ajaccio
 19,22,14,Bourg-Péronn.
 19,21,15,AC Ajaccio
 19,19,16,Red Star
@@ -402,16 +402,16 @@ day,pts,rank,team
 20,38,1,Brest
 20,35,2,Lens
 20,33,3,Reims
-20,32,4,Sochaux
-20,32,5,Troyes
-20,32,6,Strasbourg
+20,32,4,Troyes
+20,32,5,Strasbourg
+20,32,6,Sochaux
 20,32,7,Amiens
 20,28,8,Le Havre
 20,28,9,Clermont F.
-20,27,10,Gaz. Ajaccio
-20,27,11,Valenciennes
-20,26,12,Nimes
-20,26,13,Niort
+20,27,10,Valenciennes
+20,27,11,Gaz. Ajaccio
+20,26,12,Niort
+20,26,13,Nimes
 20,25,14,Bourg-Péronn.
 20,24,15,AC Ajaccio
 20,19,16,Red Star
@@ -428,8 +428,8 @@ day,pts,rank,team
 21,32,7,Amiens
 21,30,8,Gaz. Ajaccio
 21,29,9,Clermont F.
-21,29,10,Nimes
-21,29,11,Niort
+21,29,10,Niort
+21,29,11,Nimes
 21,28,12,Le Havre
 21,28,13,Valenciennes
 21,28,14,Bourg-Péronn.
@@ -444,12 +444,12 @@ day,pts,rank,team
 22,35,3,Troyes
 22,35,4,Amiens
 22,34,5,Reims
-22,33,6,Sochaux
-22,33,7,Strasbourg
+22,33,6,Strasbourg
+22,33,7,Sochaux
 22,31,8,Gaz. Ajaccio
 22,31,9,Bourg-Péronn.
-22,30,10,Nimes
-22,30,11,Niort
+22,30,10,Niort
+22,30,11,Nimes
 22,29,12,Clermont F.
 22,28,13,Le Havre
 22,28,14,Valenciennes
@@ -464,12 +464,12 @@ day,pts,rank,team
 23,35,3,Amiens
 23,35,4,Lens
 23,34,5,Reims
-23,33,6,Sochaux
-23,33,7,Strasbourg
+23,33,6,Strasbourg
+23,33,7,Sochaux
 23,31,8,Bourg-Péronn.
 23,31,9,Gaz. Ajaccio
-23,30,10,Nimes
-23,30,11,Niort
+23,30,10,Niort
+23,30,11,Nimes
 23,29,12,Clermont F.
 23,28,13,Le Havre
 23,28,14,Valenciennes
@@ -484,12 +484,12 @@ day,pts,rank,team
 24,35,3,Amiens
 24,35,4,Lens
 24,34,5,Reims
-24,33,6,Sochaux
-24,33,7,Strasbourg
+24,33,6,Strasbourg
+24,33,7,Sochaux
 24,31,8,Bourg-Péronn.
 24,31,9,Gaz. Ajaccio
-24,30,10,Nimes
-24,30,11,Niort
+24,30,10,Niort
+24,30,11,Nimes
 24,29,12,Clermont F.
 24,28,13,Le Havre
 24,28,14,Valenciennes
@@ -504,12 +504,12 @@ day,pts,rank,team
 25,35,3,Amiens
 25,35,4,Lens
 25,34,5,Reims
-25,33,6,Sochaux
-25,33,7,Strasbourg
+25,33,6,Strasbourg
+25,33,7,Sochaux
 25,31,8,Bourg-Péronn.
 25,31,9,Gaz. Ajaccio
-25,30,10,Nimes
-25,30,11,Niort
+25,30,10,Niort
+25,30,11,Nimes
 25,29,12,Clermont F.
 25,28,13,Le Havre
 25,28,14,Valenciennes
@@ -524,12 +524,12 @@ day,pts,rank,team
 26,35,3,Amiens
 26,35,4,Lens
 26,34,5,Reims
-26,33,6,Sochaux
-26,33,7,Strasbourg
+26,33,6,Strasbourg
+26,33,7,Sochaux
 26,31,8,Bourg-Péronn.
 26,31,9,Gaz. Ajaccio
-26,30,10,Nimes
-26,30,11,Niort
+26,30,10,Niort
+26,30,11,Nimes
 26,29,12,Clermont F.
 26,28,13,Le Havre
 26,28,14,Valenciennes
@@ -544,12 +544,12 @@ day,pts,rank,team
 27,35,3,Amiens
 27,35,4,Lens
 27,34,5,Reims
-27,33,6,Sochaux
-27,33,7,Strasbourg
+27,33,6,Strasbourg
+27,33,7,Sochaux
 27,31,8,Bourg-Péronn.
 27,31,9,Gaz. Ajaccio
-27,30,10,Nimes
-27,30,11,Niort
+27,30,10,Niort
+27,30,11,Nimes
 27,29,12,Clermont F.
 27,28,13,Le Havre
 27,28,14,Valenciennes
@@ -564,12 +564,12 @@ day,pts,rank,team
 28,35,3,Amiens
 28,35,4,Lens
 28,34,5,Reims
-28,33,6,Sochaux
-28,33,7,Strasbourg
+28,33,6,Strasbourg
+28,33,7,Sochaux
 28,31,8,Bourg-Péronn.
 28,31,9,Gaz. Ajaccio
-28,30,10,Nimes
-28,30,11,Niort
+28,30,10,Niort
+28,30,11,Nimes
 28,29,12,Clermont F.
 28,28,13,Le Havre
 28,28,14,Valenciennes
@@ -584,12 +584,12 @@ day,pts,rank,team
 29,35,3,Amiens
 29,35,4,Lens
 29,34,5,Reims
-29,33,6,Sochaux
-29,33,7,Strasbourg
+29,33,6,Strasbourg
+29,33,7,Sochaux
 29,31,8,Bourg-Péronn.
 29,31,9,Gaz. Ajaccio
-29,30,10,Nimes
-29,30,11,Niort
+29,30,10,Niort
+29,30,11,Nimes
 29,29,12,Clermont F.
 29,28,13,Le Havre
 29,28,14,Valenciennes
@@ -604,12 +604,12 @@ day,pts,rank,team
 30,35,3,Amiens
 30,35,4,Lens
 30,34,5,Reims
-30,33,6,Sochaux
-30,33,7,Strasbourg
+30,33,6,Strasbourg
+30,33,7,Sochaux
 30,31,8,Bourg-Péronn.
 30,31,9,Gaz. Ajaccio
-30,30,10,Nimes
-30,30,11,Niort
+30,30,10,Niort
+30,30,11,Nimes
 30,29,12,Clermont F.
 30,28,13,Le Havre
 30,28,14,Valenciennes
@@ -624,12 +624,12 @@ day,pts,rank,team
 31,35,3,Amiens
 31,35,4,Lens
 31,34,5,Reims
-31,33,6,Sochaux
-31,33,7,Strasbourg
+31,33,6,Strasbourg
+31,33,7,Sochaux
 31,31,8,Bourg-Péronn.
 31,31,9,Gaz. Ajaccio
-31,30,10,Nimes
-31,30,11,Niort
+31,30,10,Niort
+31,30,11,Nimes
 31,29,12,Clermont F.
 31,28,13,Le Havre
 31,28,14,Valenciennes
@@ -644,12 +644,12 @@ day,pts,rank,team
 32,35,3,Amiens
 32,35,4,Lens
 32,34,5,Reims
-32,33,6,Sochaux
-32,33,7,Strasbourg
+32,33,6,Strasbourg
+32,33,7,Sochaux
 32,31,8,Bourg-Péronn.
 32,31,9,Gaz. Ajaccio
-32,30,10,Nimes
-32,30,11,Niort
+32,30,10,Niort
+32,30,11,Nimes
 32,29,12,Clermont F.
 32,28,13,Le Havre
 32,28,14,Valenciennes
@@ -664,12 +664,12 @@ day,pts,rank,team
 33,35,3,Amiens
 33,35,4,Lens
 33,34,5,Reims
-33,33,6,Sochaux
-33,33,7,Strasbourg
+33,33,6,Strasbourg
+33,33,7,Sochaux
 33,31,8,Bourg-Péronn.
 33,31,9,Gaz. Ajaccio
-33,30,10,Nimes
-33,30,11,Niort
+33,30,10,Niort
+33,30,11,Nimes
 33,29,12,Clermont F.
 33,28,13,Le Havre
 33,28,14,Valenciennes
@@ -684,12 +684,12 @@ day,pts,rank,team
 34,35,3,Amiens
 34,35,4,Lens
 34,34,5,Reims
-34,33,6,Sochaux
-34,33,7,Strasbourg
+34,33,6,Strasbourg
+34,33,7,Sochaux
 34,31,8,Bourg-Péronn.
 34,31,9,Gaz. Ajaccio
-34,30,10,Nimes
-34,30,11,Niort
+34,30,10,Niort
+34,30,11,Nimes
 34,29,12,Clermont F.
 34,28,13,Le Havre
 34,28,14,Valenciennes
@@ -704,12 +704,12 @@ day,pts,rank,team
 35,35,3,Amiens
 35,35,4,Lens
 35,34,5,Reims
-35,33,6,Sochaux
-35,33,7,Strasbourg
+35,33,6,Strasbourg
+35,33,7,Sochaux
 35,31,8,Bourg-Péronn.
 35,31,9,Gaz. Ajaccio
-35,30,10,Nimes
-35,30,11,Niort
+35,30,10,Niort
+35,30,11,Nimes
 35,29,12,Clermont F.
 35,28,13,Le Havre
 35,28,14,Valenciennes
@@ -724,12 +724,12 @@ day,pts,rank,team
 36,35,3,Amiens
 36,35,4,Lens
 36,34,5,Reims
-36,33,6,Sochaux
-36,33,7,Strasbourg
+36,33,6,Strasbourg
+36,33,7,Sochaux
 36,31,8,Bourg-Péronn.
 36,31,9,Gaz. Ajaccio
-36,30,10,Nimes
-36,30,11,Niort
+36,30,10,Niort
+36,30,11,Nimes
 36,29,12,Clermont F.
 36,28,13,Le Havre
 36,28,14,Valenciennes
@@ -744,12 +744,12 @@ day,pts,rank,team
 37,35,3,Amiens
 37,35,4,Lens
 37,34,5,Reims
-37,33,6,Sochaux
-37,33,7,Strasbourg
+37,33,6,Strasbourg
+37,33,7,Sochaux
 37,31,8,Bourg-Péronn.
 37,31,9,Gaz. Ajaccio
-37,30,10,Nimes
-37,30,11,Niort
+37,30,10,Niort
+37,30,11,Nimes
 37,29,12,Clermont F.
 37,28,13,Le Havre
 37,28,14,Valenciennes
@@ -764,12 +764,12 @@ day,pts,rank,team
 38,35,3,Amiens
 38,35,4,Lens
 38,34,5,Reims
-38,33,6,Sochaux
-38,33,7,Strasbourg
+38,33,6,Strasbourg
+38,33,7,Sochaux
 38,31,8,Bourg-Péronn.
 38,31,9,Gaz. Ajaccio
-38,30,10,Nimes
-38,30,11,Niort
+38,30,10,Niort
+38,30,11,Nimes
 38,29,12,Clermont F.
 38,28,13,Le Havre
 38,28,14,Valenciennes

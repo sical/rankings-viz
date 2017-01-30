@@ -136,16 +136,17 @@ class AutoScrapp(Thread):
 		df.to_json(orient='records')
 		df.to_csv(header=True, columns=["day", "pts", "rank", "team"], sep=',', index=False)
 		
-		with open('../viz/data/soccer_ligue1.json', 'w') as fp:
+		with open('resources/data/soccer_league2.json', 'w') as fp:
 		    fp.write(df.to_json(orient='records'))
 		    
-		with open('../viz/data/soccer_ligue1.csv', 'w') as fp:
+		with open('resources/data/soccer_ligue1.csv', 'w') as fp:
 			fp.write(df.to_csv(header=True, columns=["day", "pts", "rank", "team"], sep=',', index=False))
 			print("File saved!")
    	
 		
 	def run(self):
-		schedule.every(1).hour.do(self.scrapping)
+		#schedule.every(1).hour.do(self.scrapping)
+		schedule.every(0.02).minutes.do(self.scrapping)
 		while True:
 			schedule.run_pending()
 			time.sleep(1)
