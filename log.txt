@@ -1,0 +1,13 @@
+
+5.2.2017 - 19:24:8 :SCRAPPING FOR fr_league_2 FROM http://www.maxifoot.fr/calendrier-ligue2.php
+5.2.2017 - 19:24:11 :SCRAPPING FOR fr_league_2 FROM http://www.maxifoot.fr/calendrier-ligue2.php
+5.2.2017 - 19:24:18 :SCRAPPING FOR fr_league_2 FROM http://www.maxifoot.fr/calendrier-ligue2.php
+5.2.2017 - 19:24:26 :SCRAPPING FOR fr_league_2 FROM http://www.maxifoot.fr/calendrier-ligue2.php
+5.2.2017 - 19:24:28 :SCRAPPING FOR fr_league_2 FROM http://www.maxifoot.fr/calendrier-ligue2.php
+5.2.2017 - 19:24:31 :SCRAPPING FOR fr_league_2 FROM http://www.maxifoot.fr/calendrier-ligue2.php
+5.2.2017 - 19:28:5 :SCRAPPING FOR soccer_fr_league_2 FROM http://www.maxifoot.fr/calendrier-ligue2.php
+5.2.2017 - 19:28:7 :SCRAPPING FOR soccer_fr_league_2 FROM http://www.maxifoot.fr/calendrier-ligue2.php
+5.2.2017 - 19:28:9 :SCRAPPING FOR soccer_fr_league_2 FROM http://www.maxifoot.fr/calendrier-ligue2.php
+5.2.2017 - 19:28:12 :SCRAPPING FOR soccer_fr_league_2 FROM http://www.maxifoot.fr/calendrier-ligue2.php
+5.2.2017 - 19:28:14 :SCRAPPING FOR soccer_fr_league_2 FROM http://www.maxifoot.fr/calendrier-ligue2.php
+5.2.2017 - 19:28:22 :SCRAPPING FOR soccer_fr_league_2 FROM http://www.maxifoot.fr/calendrier-ligue2.php

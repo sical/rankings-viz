@@ -15,13 +15,14 @@ import json
 import lxml
 import schedule
 import time
+import datetime
 
-
-class AutoScrapp(Thread):
+class MaxiFootAutoScrapp(Thread):
 	
-	def __init__(self,url):
+	def __init__(self,name,url):
 		Thread.__init__(self)
 		self.url = url
+		self.name = name
 		# 2009-2010
 	# premier-league-2010-2011.htm#j8
 
@@ -108,7 +109,6 @@ class AutoScrapp(Thread):
 		
 		
 	def scrapping(self):
-		print("AUTO SCRAPPING")
 		html, days = self.scrap(self.url)    
 		teams = self.parse_compute(html, days)
 
@@ -136,12 +136,17 @@ class AutoScrapp(Thread):
 		df.to_json(orient='records')
 		df.to_csv(header=True, columns=["day", "pts", "rank", "team"], sep=',', index=False)
 		
-		with open('resources/data/soccer_league2.json', 'w') as fp:
+		with open('log.txt', "a") as fp:
+			now = datetime.datetime.now()
+			fp.write(str(now.day) + "." +str(now.month) + "." +str(now.year) + " - " +str(now.hour) + ":" +str(now.minute) + ":" +str(now.second) + " :")
+			fp.write("SCRAPPING FOR " + self.name + " FROM " + self.url + "\n")
+		
+		with open('static/data/'+self.name+'.json', 'w+') as fp:
 		    fp.write(df.to_json(orient='records'))
 		    
-		with open('resources/data/soccer_ligue1.csv', 'w') as fp:
-			fp.write(df.to_csv(header=True, columns=["day", "pts", "rank", "team"], sep=',', index=False))
-			print("File saved!")
+		#with open('static/data/soccer_ligue1.csv', 'w') as fp:
+		#	fp.write(df.to_csv(header=True, columns=["day", "pts", "rank", "team"], sep=',', index=False))
+		#	print("File saved!")
    	
 		
 	def run(self):
