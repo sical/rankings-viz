@@ -18,7 +18,7 @@ def display_season(sport,id):
 	print(app.static_url_path)
 	return app.send_static_file("/html/rankchart.html")
 
-@app.route("/api/soccerseason/<id>")
+@app.route("/api/soccer/season/<id>")
 def api_soccerseason(id):
 	#return html containing json object of a season corresponding to the year (API)
 	#https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/#footballdata
