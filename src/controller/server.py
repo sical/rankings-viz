@@ -53,6 +53,8 @@ if __name__ == "__main__":
     soccer_fr_league_2_scrapp = MaxiFootAutoScrapp('soccer_fr_league_2','http://www.maxifoot.fr/calendrier-ligue2.php')
     soccer_fr_league_2_scrapp.start()
     
+    
+    
     #current/main thread will handle user/client request
     app.run()
     

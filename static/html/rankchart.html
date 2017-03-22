@@ -156,6 +156,12 @@ path {
     shape-rendering: crispEdges;
 }
 
+.legend {
+	font-size : 10px;
+	font-weight : bold;
+	text-anchor :  middle;
+}
+
 </style>
 <body>
 
@@ -165,9 +171,9 @@ path {
 <script>
 
 // Set the dimensions of the canvas / graph
-var margin = {top: 30, right: 20, bottom: 30, left: 50},
-    width = 500 - margin.left - margin.right,
-    height = 270 - margin.top - margin.bottom;
+var margin = {top: 30, right: 20, bottom: 70, left: 50},
+    width = 1500 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
 
 
 // Set the ranges
@@ -201,7 +207,6 @@ var svg = d3.select("body")
 var color = d3.scale.category20();
 
 
-
 // Get the data
 d3.json("data/soccer_fr_league_2.json", function(error, data) {
 	
@@ -218,16 +223,37 @@ d3.json("data/soccer_fr_league_2.json", function(error, data) {
     x.domain([0, maximum_day]);
     y.domain([0, nb_teams]);
 
-    // Add all teams valueline
-        
-    nested_data.forEach(function(d){
+	legendSpace = width/nested_data.length;
+
+
+    // Add all teams valueline        
+    nested_data.forEach(function(d, i){
 		
 		 svg.append("path")
 			.attr("class", "line")
+			.attr("data-id",d.key)
 			.style("stroke", function(){
-					return d.color = color(d.key);
-				})
+				return d.color = color(d.key);
+			 })
 			.attr("d", valueline(d.values));
+			
+		 svg.append("text")
+            .attr("x", (legendSpace/2)+i*legendSpace)
+            .attr("y", height + (margin.bottom/2)+ 5)
+            .attr("class", "legend")    
+            .attr("data-id",d.key)
+            .style("fill", function() { 
+				return d.color = color(d.key); 
+             })  
+            .on("click", function(){
+				var active = d.active ? false : true;
+				newOpacity = active ? 0 : 1;
+				d3.select(".line[data-id='"+d.key+"']")
+					.transition().duration(100)
+					.style("opacity", newOpacity);
+				d.active = active;
+			 })    
+            .text(d.key);  
 		
 	});
 
