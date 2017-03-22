@@ -150,8 +150,8 @@ class MaxiFootAutoScrapp(Thread):
    	
 		
 	def run(self):
-		#schedule.every(1).hour.do(self.scrapping)
-		schedule.every(0.02).minutes.do(self.scrapping)
+		schedule.every(1).hour.do(self.scrapping)
+		#schedule.every(0.02).minutes.do(self.scrapping)
 		while True:
 			schedule.run_pending()
 			time.sleep(1)
