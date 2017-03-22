@@ -50,8 +50,18 @@ def home():
 if __name__ == "__main__":
     
     #launch a thread that will autoscrapp every hour
-    soccer_fr_league_2_scrapp = MaxiFootAutoScrapp('soccer_fr_league_2','http://www.maxifoot.fr/calendrier-ligue2.php')
-    soccer_fr_league_2_scrapp.start()
+    soccer_fr_league_2_2016_2017 = MaxiFootAutoScrapp('soccer_fr_league_2_2016_2017','http://www.maxifoot.fr/calendrier-ligue2.htm')
+    soccer_fr_league_2_2016_2017.start()
+    
+    #previous seasons scrapp only once
+    soccer_fr_league_2_2015_2016 = MaxiFootAutoScrapp('soccer_fr_league_2_2015_2016','http://www.maxifoot.fr/calendrier-ligue2-2015-2016.htm');
+    soccer_fr_league_2_2015_2016.scrapping()
+    
+    soccer_fr_league_2_2014_2015 = MaxiFootAutoScrapp('soccer_fr_league_2_2014_2015','http://www.maxifoot.fr/calendrier-ligue2-2014-2015.htm');
+    soccer_fr_league_2_2014_2015.scrapping()
+    
+    
+    
     
     
     
