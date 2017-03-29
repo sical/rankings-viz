@@ -84,7 +84,7 @@ function getChampionshipsAndYears(){
 			
 			ch.seasons.forEach(function(season){
 				
-				fullname = ch.name+"_"+season;
+				fullname = season;
 				
 				newSeason = $("<div id='"+fullname+"' class='season'>"+season+"</div>");
 				newChampionship.append(newSeason);

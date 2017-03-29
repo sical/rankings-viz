@@ -2706,3 +2706,5 @@
 25.3.2017 - 10:19:58 :SCRAPPING FOR soccer_fr_league_2_2014_2015 FROM http://www.maxifoot.fr/calendrier-ligue2-2014-2015.htm
 25.3.2017 - 10:54:22 :SCRAPPING FOR soccer_fr_league_2_2015_2016 FROM http://www.maxifoot.fr/calendrier-ligue2-2015-2016.htm
 25.3.2017 - 10:54:24 :SCRAPPING FOR soccer_fr_league_2_2014_2015 FROM http://www.maxifoot.fr/calendrier-ligue2-2014-2015.htm
+29.3.2017 - 12:22:54 :SCRAPPING FOR soccer_fr_league_2_2015_2016 FROM http://www.maxifoot.fr/calendrier-ligue2-2015-2016.htm
+29.3.2017 - 12:22:55 :SCRAPPING FOR soccer_fr_league_2_2014_2015 FROM http://www.maxifoot.fr/calendrier-ligue2-2014-2015.htm
