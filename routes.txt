@@ -1,8 +1,11 @@
+ROUTES
 
+- "/" : index that display dataviz of soccer championshipŝ
 
-"/api/<sport>/season/<id>" : will send json object of the corresponding data of id.
+- "/logs" : display logs
 
-"/<sport>/season/<id>" : display datas of corresponding sport and id(requesting /api..).
+- "/data/championships" : return json data of static/data/championships.json
 
-"/" : display all sports, and then seasons of sport, once the user chose : go to corresponding sport season.
+- "/data/<filename>" : return json data of <filename> (check in database)
 
+- "/html/<path:filename>" : return html file static/html/<filename>

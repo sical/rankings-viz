@@ -1,0 +1,63 @@
+
+Need Python 3.6.1 and Heroku installed
+
+Working local :
+
+-clone this repo :
+
+	git clone https://git.heroku.com/soccerdataviz.git/
+
+(
+-create a virtual environment  :
+	
+	python3 -m venv FOLDERNAME
+	
+	source FOLDERNAME/bin/activate
+)
+
+-install dependencies :
+	
+	pip install -r requirements.txt
+	
+
+-test if working (deploy local):
+
+	heroku local web
+
+GIT COMMANDS :
+
+git add .
+git commit -m "message"
+git pull heroku master
+git push heroku
+
+
+
+POSTGRESQL :
+
+- pull remote postgre database to local database :
+	heroku pg:pull DATABASE_URL data --app soccerdataviz
+
+- push local database to remote database :
+	heroku pg:push data DATABASE_URL --app soccerdataviz
+
+
+-to work everytime (locally) on remote db :
+	export DATABASE_URL=postgres://iosoiatrwlzhss:f002b88d86eb25f60b1264936213dbe0add3a2fc7085c5092fc5b750afb2c2da@ec2-50-19-95-47.compute-1.amazonaws.com:5432/d3fp6h4o4anqi3
+
+
+- more info see : https://devcenter.heroku.com/articles/heroku-postgresql
+
+
+DEPLOY ONLINE :
+
+if you push (git push heroku), it should deploy it automaticaly
+or
+
+	heroku open
+	
+	
+Error in `python': double free or corruption (SEGFAULT) :
+
+	sudo apt-get install libtcmalloc-minimal4
+	export LD_PRELOAD="/usr/lib/libtcmalloc_minimal.so.4"

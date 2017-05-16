@@ -3,6 +3,10 @@
 <meta charset="utf-8">
 <style> /* set the CSS */
 
+h1 { text-align : center; }
+h2 { text-align : center; }
+h3 { text-align : center; }
+
 body { font: 12px Arial;}
 
 path { 
@@ -21,27 +25,81 @@ path {
 
 .legend {
 	cursor : pointer;
-	font-size : 10px;
+	font-size : 9px;
 	font-weight : bold;
 	text-anchor :  middle;
 }
 
+
+
+.drop_menu {
+	background:#990000;
+	padding:0;
+	margin:0;
+	list-style-type:none;
+	height:30px;
+	width:100%;
+}
+.drop_menu li { float:left; width:150px; }
+.drop_menu li a {
+	padding:9px 20px;
+	display:block;
+	color:#fff;
+	text-decoration:none;
+	font:12px arial, verdana, sans-serif;
+}
+
+/* Submenu */
+.drop_menu ul {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+	list-style-type:none;
+}
+.drop_menu li:hover { position:relative; background:red; }
+.drop_menu li:hover ul {
+	left:0px;
+	top:30px;
+	background:#5FD367;
+	padding:0px;
+}
+
+.drop_menu li:hover ul li a {
+	padding:5px;
+	display:block;
+	width:140px;
+	text-indent:15px;
+	background-color:#cc0000;
+}
+.drop_menu li:hover ul li a:hover { background:red; }
+
+
+
+
 </style>
 <body>
+	
+<h1>SOCCERDATAVIZ</h1>
 
 <div id="championships">
 
 </div>
 
+<h2 id="currChamp"></h2>
+<h3 ><a id="currChampSource"></a></h3>
+
 <!-- load the d3.js library -->    
-<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://d3js.org/d3.v3.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 <script>
 
+//adapt width to different size, but no responsive
+//console.log($("#currChamp").width());
+
 // Set the dimensions of the canvas / graph
 var margin = {top: 30, right: 20, bottom: 70, left: 50},
-    width = 1500 - margin.left - margin.right,
+    width = $("#currChamp").width() - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
 
@@ -51,10 +109,10 @@ var y = d3.scale.linear().range([0, height]);
 
 // Define the axes
 var xAxis = d3.svg.axis().scale(x)
-    .orient("bottom").ticks(10);
+    .orient("bottom").ticks(30);
 
 var yAxis = d3.svg.axis().scale(y)
-    .orient("left").ticks(10);
+    .orient("left").ticks(20);
 
 // Define the line
 
@@ -63,43 +121,101 @@ var valueline = d3.svg.line()
     .y(function(d) { return y(d.rank); });
  
     
-// Adds the svg canvas
-
-
 //set of 20 colors
 var color = d3.scale.category20();
 
 
-function getChampionshipsAndYears(){
+function displayChampionshipsAndYears(){
 	
-	d3.json("data/championships.json",function(error, data){
+	//MENU ITEMS SPECIFIED IN THE FILE championships.json
+	d3.json("data/championships",function(error, data){
 		
-		console.log(data);
+		res = $("<ul class='drop_menu'></ul>");
 		
 		
+		$("#championships").append(res);
+		
+		//FOREACH CHAMPIONSHIPS
 		data.forEach(function(ch){
-			newChampionship = $("<div id='"+ch.name+"' class='championship'>"+ch.name+"</div>");
 			
-			$("#championships").append(newChampionship);
+			curr_championship =$("<li id='"+ch.name+"' class='championship'> <a>"+ch.label+" </a></li> ");
 			
+			seasons = $("<ul></ul>");
+			
+			curr_championship.append(seasons);
+				
+			ch.seasons.forEach(function(season){
+				
+				newSeason = $("<li id='"+season.name+"' class='season' data-url='"+season.url+"' data-label='"+ch.label+" "+season.label+"'> <a>"+season.label+"</a></li>");
+				
+				seasons.append(newSeason);
+				
+				
+				
+			});
+			
+			res.append(curr_championship);
+			
+			
+			
+		});
+		
+		$(".season").on("click",function(){
+			displayResults("data/"+$(this).attr("id"));
+			$("#currChamp").html($(this).attr("data-label"));
+			$("#currChampSource").html($(this).attr("data-url"));
+			$("#currChampSource").attr("href",$(this).attr("data-url"));
+		});
+		
+		
+		//width = $(".drop_menu").width() - margin.left - margin.right;
+		//console.log(width);
+		
+	});
+	
+	
+			
+			
+			/*
+			
+			newChampionship = $("<ul class='drop_menu'> DEBUT CHAMPIONSHIP<li id='"+ch.name+"' class='championship'><a>"+ch.name+"</a> </ul>");
+			
+			
+			//newChampionship.append(submenu);
 			ch.seasons.forEach(function(season){
 				
 				fullname = season;
 				
-				newSeason = $("<div id='"+fullname+"' class='season'>"+season+"</div>");
-				newChampionship.append(newSeason);
+				newSeason = $("<li id='"+fullname+"' class='season'> <a>"+season+"</a></li>");
+				//newChampionship.append(newSeason);
+				submenu.append(newSeason);
 				
 				$("#"+fullname).on("click",function(){
 					
-					displayResults("data/"+$(this).attr("id")+".json");
+					displayResults("data/"+$(this).attr("id"));
 					
-					});
+				});
+				
 			});
+			submenu += "</ul>fin submenu</li>";
+			
+			//newChampionship.append(submenu);
+			
+			newChampionship.append("</ul>FIN CHAMPIONSHIP");
+			
+			res.append(newChampionship);
 			
 		});
 		
+		console.log(res);
+		
+		$("#championships").append(res);
+		//$("#championships").append(championships);
+			
+		//$("#championships").append("</ul>");
+		
 	});
-	
+	*/
 	
 }
 
@@ -119,7 +235,7 @@ function displayResults(jsonData){
         .attr("transform", 
               "translate(" + margin.left + "," + margin.top + ")");
 	
-	//d3.select("#teamgraph").html("");
+	
 	// Get the data
 	d3.json(jsonData, function(error, data) {
 		
@@ -134,7 +250,7 @@ function displayResults(jsonData){
 
 		// Scale the range of the data
 		x.domain([0, maximum_day]);
-		y.domain([0, nb_teams]);
+		y.domain([1, nb_teams]);
 
 		legendSpace = width/nested_data.length;
 
@@ -142,53 +258,310 @@ function displayResults(jsonData){
 		// Add all teams valueline        
 		nested_data.forEach(function(d, i){
 			
-			 svg.append("path")
+			
+			svg.append("path")
 				.attr("class", "line")
 				.attr("data-id",d.key)
 				.style("stroke", function(){
 					return d.color = color(d.key);
 				 })
+				 .style("stroke-width","4px")
 				.attr("d", valueline(d.values));
 				
-			 svg.append("text")
+			svg.append("text")
 				.attr("x", (legendSpace/2)+i*legendSpace)
-				.attr("y", height + (margin.bottom/2)+ 5)
-				.attr("class", "legend")    
+				.attr("y", height + (margin.bottom/2)+ 25)
+				.attr("class", "legend displayed")      
 				.attr("data-id",d.key)
 				.style("fill", function() { 
 					return d.color = color(d.key); 
-				 })  
-				.on("click", function(){
-					var active = d.active ? false : true;
-					newOpacity = active ? 0 : 1;
-					d3.select(".line[data-id='"+d.key+"']")
-						.transition().duration(100)
-						.style("opacity", newOpacity);
-					d.active = active;
-				 })    
+				 })
 				.text(d.key);  
 			
+			
+			
 		});
+		
+		
+		
+		// Add dots
+		svg.selectAll("dot")
+			.data(data)
+			.enter().append("circle")
+			.attr("r", 3)
+			.attr("cx", function(d) { return x(d.day); })
+			.attr("cy", function(d) { return y(d.rank); })
+			.attr("data-team", function(d) { return d.team; });
+			
+		// Add points	
+		svg.selectAll("dot")
+			.data(data)
+			.enter()
+			.append("text")
+			.attr("class","points")
+			.attr("x", function(d) { return x(d.day)+5; })
+			.attr("y", function(d) { return y(d.rank); })
+			.attr("data-team", function(d) { return d.team; })
+			.text(function(d) { return d.pts; });
+			
+		$("circle, text[class='points']").css("visibility","hidden");
+				
+		//CLICK ON A LINE
+		$(".line").on("click", function(){
+	
+			id = $(this).attr("data-id");
+			id = id.replace(/(['"])/g, "\\$1");
+			
+			if($(this).hasClass("chosen")){
+				$(this).removeClass("chosen");
+			
+				$(".legend[data-id='"+id+"']").removeClass("chosen");
+				
+				$("circle[data-team='"+id+"']").removeClass("chosen");
+				
+				$("text[data-team='"+id+"']").removeClass("chosen");
+			
+			}
+			else{
+				$(this).addClass("chosen");
+				
+				$(".legend[data-id='"+id+"']").addClass("chosen");
+				
+				$("circle[data-team='"+id+"']").addClass("chosen");
+				
+				$("text[data-team='"+id+"']").addClass("chosen");
+			}
+			
+			
+		});
+		
+		
+		$(".line").hover(
+			
+			//HOVER A LINE
+			function(){
+				
+				id = $(this).attr("data-id");
+				id = id.replace(/(['"])/g, "\\$1");
+				
+				if($(".legend[data-id='"+id+"']").hasClass("displayed")){
+					
+					
+					$(this).css("stroke-width",6);
+					$(".legend[data-id='"+id+"']").css("font-size","20");
+					
+					$("circle[data-team='"+id+"']").css("visibility","visible");
+					
+					$("text[class='points'][data-team='"+id+"']").css("visibility","visible");
+				}
+			},
+			//HOVER OUT A LINE
+			function(){
+				
+				
+				if(!$(this).hasClass("chosen")){
+					
+					id = $(this).attr("data-id");
+					id = id.replace(/(['"])/g, "\\$1");
+					
+					$(this).css("stroke-width",4);
+					
+					$(".legend[data-id='"+id+"']").css("font-size","9");
+					
+					$("circle[data-team='"+id+"']").css("visibility","hidden");
+					
+					$("text[data-team='"+id+"']").css("visibility","hidden");
+				
+				}
+		});
+		
+		//WHEN HOVER A LEGEND
+		$(".legend").hover(
+			function(){
+				
+				id = $(this).attr("data-id");
+				id = id.replace(/(['"])/g, "\\$1");
+				$(this).css("font-size","20");
+				$(".line[data-id='"+id+"']").css("stroke-width",6);
+			},
+			function(){
+				if($(this).hasClass("chosen")){
+					return;
+				}
+				
+				id = $(this).attr("data-id");
+				id = id.replace(/(['"])/g, "\\$1");
+				$(this).css("font-size","12");
+				$(".line[data-id='"+id+"']").css("stroke-width",4);
+			});
+		
+		//WHEN CLICK ON LEGEND
+		$(".legend").on("click",function(){
+			
+			if($(this).hasClass("displayed")){
+				
+				id = $(this).attr("data-id");
+				id = id.replace(/(['"])/g, "\\$1");
+				
+				if($(this).hasClass("chosen")){
+					
+					$("circle[data-team='"+id+"']").css("visibility","hidden");
+					$("text[data-team='"+id+"']").css("visibility","hidden");
+					$(".line[data-id='"+id+"']").css("opacity",0);
+				
+					$("circle[data-team='"+id+"']").removeClass("chosen");
+					$("text[data-team='"+id+"']").removeClass("chosen");
+					$(".line[data-id='"+id+"']").removeClass("chosen");
+				
+				}
+				else{
+					$(".line[data-id='"+id+"']").css("opacity",0);
+				
+				}
+				
+				$(this).removeClass("displayed");
+				
+				
+			}
+			else{
+				
+				
+				id = $(this).attr("data-id");
+				id = id.replace(/(['"])/g, "\\$1");
+				
+				
+				if($(this).hasClass("chosen")){
+						
+					$("circle[data-team='"+id+"']").css("visibility","visible");
+					$("text[data-team='"+id+"']").css("visibility","visible");
+					$(".line[data-id='"+id+"']").css("opacity",1);
+				
+					$("circle[data-team='"+id+"']").addClass("chosen");
+					$("text[data-team='"+id+"']").addClass("chosen");
+					$(".line[data-id='"+id+"']").addClass("chosen");
+				
+				}
+				else{
+					$(".line[data-id='"+id+"']").css("opacity",1);
+				
+				
+				}
+				
+				$(this).addClass("displayed");
+				
+				
+			}
+			
+		});	
+			
+			
+			
 
 		// Add the X Axis
 		svg.append("g")
 			.attr("class", "x axis")
 			.attr("transform", "translate(0," + height + ")")
 			.call(xAxis);
+			
+		// X Axis LEGEND
+		svg.append("text")
+			.attr("transform",
+					"translate(" + (width - 10) + " ," + 
+									(height + margin.top + 10 + ")"))
+			.style("text-anchor", "middle")
+			.text("Days");
 
 		// Add the Y Axis
 		svg.append("g")
 			.attr("class", "y axis")
 			.call(yAxis);
 			
+		// X Axis LEGEND
+		svg.append("text")
+			.attr("transform", "rotate(-90)")
+			.attr("y", 0 - margin.left)
+			.attr("x",-10)
+			.attr("dy", "1em")
+			.style("text-anchor", "middle")
+			.text("Rank"); 
+			
+		$("#selectButton").remove();
+		$("body").append($("<div id='selectButton' ><button id='selectDeselectAll' data-selectAll=0>Select/Deselect all</button></div>"));
+		$("#selectButton").css("text-align","center");
+		
+		$("#selectDeselectAll").on("click",function(){
+			selectAll = $(this).attr("data-selectAll");
+			
+			if(selectAll == 0){
+				$(this).attr("data-selectall",1);
+					
+				$(".line").each(function(){
+					
+					if($(this).hasClass("x axis") || $(this).hasClass("y axis")){
+						return
+					}
+					
+					id = $(this).attr("data-id");
+					id = id.replace(/(['"])/g, "\\$1");
+					
+					if($(".legend[data-id='"+id+"']").hasClass("chosen")){
+						return;
+					}
+					
+					$(".legend[data-id='"+id+"']").removeClass("displayed");
+					$("circle[data-team='"+id+"']").css("visibility","hidden");
+					$("text[data-team='"+id+"']").css("visibility","hidden");
+					$(".line[data-id='"+id+"']").css("opacity",0);
+					
+					
+					$("circle[data-team='"+id+"']").removeClass("chosen");
+					$("text[data-team='"+id+"']").removeClass("chosen");
+					$(".line[data-id='"+id+"']").removeClass("chosen");
+					
+					
+					
+					$(this).removeClass("displayed");
+				});
+					 
+				
+			}
+			else{
+				
+				 $(this).attr("data-selectall",0);
+				 
+				 
+				$(".line").each(function(){
+						
+						
+					id = $(this).attr("data-id");
+					id = id.replace(/(['"])/g, "\\$1");
+					
+					//$("circle[data-team='"+$(this).attr("data-id")+"']").css("visibility","visible");
+					//$("text[data-team='"+$(this).attr("data-id")+"']").css("visibility","visible");
+					$(".line[data-id='"+id+"']").css("opacity",1);
+				
+					$(".legend[data-id='"+id+"']").addClass("displayed");
+					//$("circle[data-team='"+$(this).attr("data-id")+"']").addClass("chosen");
+					//$("text[data-team='"+$(this).attr("data-id")+"']").addClass("chosen");
+					//$(".line[data-id='"+$(this).attr("data-id")+"']").addClass("chosen");
+				
+					$(this).addClass("displayed");
+				});
+				
+			}
+			
+			
+			
+			
+			
+		});
+			
 
 	});
 }
 
 
-//displayResults("data/soccer_fr_league_2.json");
-
-getChampionshipsAndYears();
+displayChampionshipsAndYears();
 
 
 

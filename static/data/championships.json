@@ -1,1 +1,12 @@
-[{"name":"soccer_fr_league_2","seasons":["soccer_fr_league_2_2014_2015","soccer_fr_league_2_2015_2016","soccer_fr_league_2_2016_2017"]}]
+[
+
+	{"name":"soccer_fr_league_2","label":"Ligue 2 française","seasons":[{"name":"soccer_fr_league_2_2014_2015","label":"2014-2015","url":"http://www.maxifoot.fr/calendrier-ligue2-2014-2015.htm"},{"name":"soccer_fr_league_2_2015_2016","label":"2015-2016","url":"http://www.maxifoot.fr/calendrier-ligue2-2015-2016.htm"},{"name":"soccer_fr_league_2_2016_2017","label":"2016-2017","url":"http://www.maxifoot.fr/calendrier-ligue2.htm"}]},
+	{"name":"soccer_fr_league_1","label":"Ligue 1 française","seasons":[{"name":"soccer_fr_league_1_2014_2015","label":"2014-2015","url":"http://www.maxifoot.fr/calendrier-ligue1-2014-2015.htm"},{"name":"soccer_fr_league_1_2015_2016","label":"2015-2016","url":"http://www.maxifoot.fr/calendrier-ligue1-2015-2016.htm"},{"name":"soccer_fr_league_1_2016_2017","label":"2016-2017","url":"http://www.maxifoot.fr/calendrier-ligue1.htm"}]},
+	{"name":"soccer_eng_league","label":"Eng-Premier league","seasons":[{"name":"soccer_eng_league_2016_2017","label":"2016-2017","url":"http://www.maxifoot.fr/calendrier-premier-league.htm"}]},
+	{"name":"soccer_all_league","label":"All-Bundesliga","seasons":[{"name":"soccer_all_league_2016_2017","label":"2016-2017","url":"http://www.maxifoot.fr/calendrier-bundesliga.htm"}]},
+	{"name":"soccer_esp_league","label":"Esp-Liga","seasons":[{"name":"soccer_esp_league_2016_2017","label":"2016-2017","url":"http://www.maxifoot.fr/calendrier-liga.htm"}]},
+	{"name":"soccer_ita_league","label":"Ita-Serie A","seasons":[{"name":"soccer_ita_league_2016_2017","label":"2016-2017","url":"http://www.maxifoot.fr/calendrier-serie-a.htm"}]}
+
+
+]
+
